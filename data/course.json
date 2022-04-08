@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "51a9d14e-4604-f4af-6342-a08e5661acd3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "risk-and-decision-analysis"
+  },
+  "course_title": "Risk and Decision Analysis",
+  "course_description": "This is the Course Description.",
+  "department_numbers": [
+    "IDS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "IDS.333",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "risk-and-decision-analysis"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Video Materials",
+    "Projects"
+  ],
+  "site_uid": "1ee799c3-154f-4a5c-bfae-60ab54ec189a"
+}
