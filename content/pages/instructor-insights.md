@@ -16,7 +16,7 @@ Below, Prof. Richard de Neufville describes various aspects of how he teaches *I
 
 **Richard de Neufville:** Teaching risk and decision analysis is fundamental for technological leadership, because the development, deployment, and use of technological systems is inescapably full of uncertainties and risks. Leaders need to know how to deal effectively with this reality. 
 
-More deeply, this course is taught as part of a fundamental change in engineering education. The traditional paradigm in systems design is that Step 1 is to define “requirements” to specify precisely what is needed. However, we now can recognize that we can’t really define what clients or circumstances will actually need.  The fact is that “needs” change over time for all kinds of reasons.
+More deeply, this course is taught as part of a fundamental change in engineering education. The traditional paradigm in systems design is that Step 1 is to define “requirements” to specify precisely what is needed. However, we now can recognize that we can’t really define what clients or circumstances will actually need. The fact is that “needs” change over time for all kinds of reasons.
 
 The new paradigm recognizes that forecasts are inevitably wrong—and thus that we need to design our technological developments to evolve in line with what actually is desirable over time—the iPhone is an example.
 
@@ -30,7 +30,7 @@ In class, the instructor actively engages with students rather than distributing
 
 **OCW:** How do you ensure that students come to class having read/viewed the required materials ahead of time?
 
-**Richard de Neufville:** Students will read/view the material before class, because an indispensable 30% of their grade depends on filling out associated app-based questionnaires.  These apps sort, analyze, and present student responses so the instructor can process them efficiently and use them in class.
+**Richard de Neufville:** Students will read/view the material before class, because an indispensable 30% of their grade depends on filling out associated app-based questionnaires. These apps sort, analyze, and present student responses so the instructor can process them efficiently and use them in class.
 
 \[See this [further description of how the flipped classroom works](https://openlearning.mit.edu/mit-faculty/residential-digital-innovations/student-pre-class-preparation-enhances-class-time).\] 
 
@@ -40,7 +40,7 @@ In class, the instructor actively engages with students rather than distributing
 
 **OCW:** How has the role of the teaching assistant changed with these changes in the way you use classroom time?
 
-**Richard de Neufville:** The in-class format featuring discussions with students naturally involves TA participation—coaching in-class exercises, discussions, etc.  The TA thus builds relationships with students, which facilitates their confidence to seek information and clarifications.
+**Richard de Neufville:** The in-class format featuring discussions with students naturally involves TA participation—coaching in-class exercises, discussions, etc. The TA thus builds relationships with students, which facilitates their confidence to seek information and clarifications.
 
 **OCW:** What would you like to share about teaching IDS.333 that we haven’t yet addressed?
 
@@ -67,7 +67,7 @@ Every fall semester
 Course grades were assigned based on a weighted average of the following elements:
 
 - 30% Participation (pre-reads)
-- 36% Three homework assignments  (equal weight on each assignment)
+- 36% Three homework assignments (equal weight on each assignment)
 - 34% Quiz 
 
 ## Student Information
