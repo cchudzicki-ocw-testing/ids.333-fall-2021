@@ -26,9 +26,7 @@ Consequently, we need to develop strategies for managing risks and making decisi
 
 **Richard de Neufville:** The flipped classroom approach exploits our ability to distribute class material in advance through electronic media and avoid using lectures—a medieval legacy.
 
-In class, the instructor actively engages with students rather than distributing content. Rather than talking *at* students unprepared for new content, the instructor talks 
-
-*with* students prepared for class.
+In class, the instructor actively engages with students rather than distributing content. Rather than talking *at* students unprepared for new content, the instructor talks *with* students prepared for class.
 
 **OCW:** How do you ensure that students come to class having read/viewed the required materials ahead of time?
 
