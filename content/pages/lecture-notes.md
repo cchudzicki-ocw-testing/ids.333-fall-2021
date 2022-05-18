@@ -6,6 +6,26 @@ uid: 4f45d5c4-5144-4091-a0a6-3080b6ce480f
 ---
 This is for the lecture notes.
 
-{{% resource_link 96ea9918-5920-481d-aaeb-d337f7fd2e37 "Lecture 1" %}}
+Lecture 1
+
+Lecture 2
 
 Lecture 3
+
+Lecture 4
+
+Lecture 5
+
+Lecture 6 (not available)
+
+Lecture 7
+
+Lecture 8
+
+Lecture 9
+
+Lecture 10-1
+
+Lecture 10-2
+
+Lecture 11
