@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/risk-and-decision-analysis/mit_ids_333f21_lec3.pdf
+file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_lec3.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
