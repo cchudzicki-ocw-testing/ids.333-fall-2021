@@ -14,20 +14,18 @@ All available lecture notes are provided below:
 
 Lecture 3 (not available)
 
-Lecture 4
+{{% resource_link "8aa5cc99-1214-4979-be4a-205fcd374098" "Lecture 4" %}}
 
-Lecture 5
+{{% resource_link "83083d51-d08f-44af-a64a-07fec8b28dea" "Lecture 5" %}}
 
-Lecture 6
+{{% resource_link "6021a73f-ba0b-4fb9-ac0b-75bb07ab6d74" "Lecture 6" %}}
 
 Lecture 7 (not available)
 
-Lecture 8-1
+{{% resource_link "9b466809-2560-4b1d-ba42-ef02e4390837" "Lecture 8-1" %}}
 
-Lecture 8-2
+{{% resource_link "43c6d936-d622-4da6-9473-deb6fe5e1e5c" "Lecture 8-2" %}}
 
-Lecture 9
+{{% resource_link "246f01ac-e025-4694-90de-b6280c953f6b" "Lecture 9" %}}
 
-Lecture 10
-
-Lecture 11
+{{% resource_link "409e17ee-26c1-476b-b6dc-7f9b0b24a06b" "Lecture 10" %}}
