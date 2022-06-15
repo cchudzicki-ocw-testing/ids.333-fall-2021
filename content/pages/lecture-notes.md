@@ -20,12 +20,12 @@ Lecture 3 (not available)
 
 Lecture 6 (not available)
 
-Lecture 7
+{{% resource_link "249e1d3d-5fac-4d7f-9313-a1f02cb394b6" "Lecture 7" %}}
 
-Lecture 8
+{{% resource_link "078ce200-569d-4c87-93ce-57e6b4235f32" "Lecture 8" %}}
 
-Lecture 9
+{{% resource_link "7794e707-5cf6-4a86-a243-bd45b2125a21" "Lecture 9" %}}
 
-Lecture 10
+{{% resource_link "ba338a0a-26ec-4268-9293-d9afc7c6d7d6" "Lecture 10" %}}
 
-Lecture 11
+{{% resource_link "d54b85da-4705-4c10-bffc-78692f0fdf66" "Lecture 11" %}}
