@@ -16,27 +16,27 @@ This course was taught at MIT as a half-term course. Users can choose a learning
 
 ### Session 1
 
-Topic: Introduction-paradigm change; Lordos example
+Topic: Introduction; Paradigm Change; Lordos example
 
 Readings: \[FD\] Chapters 1 and 2
 
-Pre-Class Assignment: Self-intro (video)
+Pre-Class Assignment: Self-Introduction (video)
 
-Major Assignment: HW 1-document experience out
+Major Assignment: HW 1 Document Experience out
 
-Intended Take-aways: Paradigm change
+Intended Take-aways: Paradigm Change
 
 ### Session 2
 
-Topic: 
+Topic: Forecast "always wrong;" Flaw of Averages
 
-Readings:
+Readings: \[FD\] chapter 4
 
-Pre-Class Assignment:
+Pre-Class Assignment: Uncertainty Examples (video)
 
-Major Assignment:
+Major Assignment: n/a
 
-Intended Take-aways: 
+Intended Take-aways: Forecast is "always" wrong’! We must deal with distribution recognizing overconfidence.
 
 ### Session 3
 
@@ -123,6 +123,30 @@ Major Assignment:
 Intended Take-aways: 
 
 ### Session 10
+
+Topic: 
+
+Readings:
+
+Pre-Class Assignment:
+
+Major Assignment:
+
+Intended Take-aways:
+
+### Session 11
+
+Topic: 
+
+Readings:
+
+Pre-Class Assignment:
+
+Major Assignment:
+
+Intended Take-aways:
+
+### Session 12
 
 Topic: 
 
