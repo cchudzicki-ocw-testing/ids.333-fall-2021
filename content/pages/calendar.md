@@ -8,23 +8,23 @@ uid: d7b7e804-d8d2-4f8b-9d95-d4c568d245ef
 ---
 This course was taught at MIT as a half-term course. Users can choose a learning pace based on their learning need.
 
-\[FD\] = Flexibility in Engineering Design
+\[FD\] = de Neufville, R. and S. Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230.
 
-\[ASA\] = Applied Systems Analysis
+\[ASA\] = de Neufville, R. *Applied Systems Analysis: Engineering Planning and Technology Management.* McGraw-Hill, 1990. ISBN: 0070163723 ([PDF](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)).
 
 \[XL\] = "Excel Boot Camp” material
 
 ### Session 1
 
-Topic: Introduction-Paradigm Change; Lordos example
+Topic: Introduction-paradigm change; Lordos example
 
-Readings:
+Readings: \[FD\] Chapters 1 and 2
 
-Pre-Class Assignment:
+Pre-Class Assignment: Self-intro (video)
 
-Major Assignment:
+Major Assignment: HW 1-document experience out
 
-Intended Take-aways: 
+Intended Take-aways: Paradigm change
 
 ### Session 2
 
