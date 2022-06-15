@@ -30,7 +30,7 @@ Intended Take-aways: Paradigm Change
 
 Topic: Forecast "always wrong;" Flaw of Averages
 
-Readings: \[FD\] chapter 4
+Readings: \[FD\] Chapter 4
 
 Pre-Class Assignment: Uncertainty Examples (video)
 
@@ -40,75 +40,75 @@ Intended Take-aways: Forecast is "always" wrong’! We must deal with distributi
 
 ### Session 3
 
-Topic: 
+Topic: Discounted Cash Flow
 
-Readings:
+Readings: \[FD\] Appendix B
 
-Pre-Class Assignment:
+Pre-Class Assignment: \[ASA\] Chapters 12 and 13 (readings)
 
-Major Assignment:
+Major Assignment: n/a
 
-Intended Take-aways: 
+Intended Take-aways: Time Value of Money; Choice of discount rate is crucial.
 
 ### Session 4
 
-Topic: 
+Topic: Garage Case
 
-Readings:
+Readings: ASCE article; \[XL\] Review
 
-Pre-Class Assignment:
+Pre-Class Assignment: videos; ASCE article (readings)
 
-Major Assignment:
+Major Assignment: HW 2 Excel out
 
-Intended Take-aways: 
+Intended Take-aways: Flexibility as Win-Win
 
 ### Session 5
 
-Topic: 
+Topic: Simulation Mechanics
 
-Readings:
+Readings: \[FD\] Appendix D
 
-Pre-Class Assignment:
+Pre-Class Assignment: Simulation (videos)
 
-Major Assignment:
+Major Assignment: HW 1 due
 
-Intended Take-aways: 
+Intended Take-aways: Rapid Excel Analysis of Complex Choices
 
 ### Session 6
 
-Topic: 
+Topic: Excel Template Recitation
 
-Readings:
+Readings: Garage Case and Template
 
-Pre-Class Assignment:
+Pre-Class Assignment: Pre-Read Questions
 
-Major Assignment:
+Major Assignment: Draft HW 2 due
 
-Intended Take-aways: 
+Intended Take-aways: Practical Use of Simulation
 
 ### Session 7
 
-Topic: 
+Topic: Flexibility Drivers; Optimal Cycle time
 
-Readings:
+Readings: \[FD\] on Learning
 
-Pre-Class Assignment:
+Pre-Class Assignment: Manne Images (videos)
 
-Major Assignment:
+Major Assignment: HW 3 Decision Analysis and EVPI out 
 
-Intended Take-aways: 
+Intended Take-aways: Discount rate and learning curve vs. Economies of Scale
 
 ### Session 8
 
-Topic: 
+Topic: Decision Analysis
 
-Readings:
+Readings: \[ASA\] Chapter 16
 
-Pre-Class Assignment:
+Pre-Class Assignment: Structuring Decisions (videos)
 
-Major Assignment:
+Major Assignment: HW 2 due
 
-Intended Take-aways: 
+Intended Take-aways: Structured Analysis Limited Choice and Timing
 
 ### Session 9
 
