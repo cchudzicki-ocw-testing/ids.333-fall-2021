@@ -112,48 +112,48 @@ Intended Take-aways: Structured Analysis Limited Choice and Timing
 
 ### Session 9
 
-Topic: 
+Topic: Value of Information
 
-Readings:
+Readings: \[ASA\] Chapter 17
 
-Pre-Class Assignment:
+Pre-Class Assignment: Value of Information (videos)
 
-Major Assignment:
+Major Assignment: n/a
 
-Intended Take-aways: 
+Intended Take-aways: Waiting leads to valuable Learning.
 
 ### Session 10
 
-Topic: 
+Topic: Other Evaluation Criteria
 
-Readings:
+Readings: \[FD\] Chapter 3
 
-Pre-Class Assignment:
+Pre-Class Assignment: Utility (videos) 
 
-Major Assignment:
+Major Assignment: n/a
 
-Intended Take-aways:
+Intended Take-aways: Expectation v.s. Risk Aversion, is optimum a good concept?
 
 ### Session 11
 
-Topic: 
+Topic: Utility Analysis
 
-Readings:
+Readings: \[ASA\] Chapter 18
 
-Pre-Class Assignment:
+Pre-Class Assignment: Case Study (videos)
 
-Major Assignment:
+Major Assignment: HW 3 due
 
-Intended Take-aways:
+Intended Take-aways: Group Utility not Meaningful
 
 ### Session 12
 
-Topic: 
+Topic: Review for Quiz
 
-Readings:
+Readings: n/a
 
-Pre-Class Assignment:
+Pre-Class Assignment: Pre-Quiz Questions
 
-Major Assignment:
+Major Assignment: n/a
 
-Intended Take-aways:
+Intended Take-aways: Integrated View of Material
