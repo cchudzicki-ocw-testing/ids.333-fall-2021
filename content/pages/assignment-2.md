@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: This page is assignment 2 for the MIT course IDS.333 Risk and Decision
-  Analysis of Fall 2021.
+  Analysis of fall 2021.
 draft: false
 title: Assignment 2
 uid: 99bc49a0-d592-45a8-8c16-e90bf055b47b
