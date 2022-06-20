@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: This page is the assignment 2 for the MIT course IDS.333 Risk and Decision
+description: This page is assignment 2 for the MIT course IDS.333 Risk and Decision
   Analysis of Fall 2021.
 draft: false
 title: Assignment 2
