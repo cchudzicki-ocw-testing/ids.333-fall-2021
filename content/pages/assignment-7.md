@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: This is assignment 7 for the MIT course IDS.333 Risk and Decision Analysis
-  of Fall 2021.
+  of fall 2021.
 draft: false
 title: Assignment 7
 uid: 53e18e36-4c42-4735-a7ec-9194fe3dcb43
