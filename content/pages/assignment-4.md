@@ -24,4 +24,4 @@ You must, of course provide suitable inputs, such as costs, revenues, and input 
 
 To embed flexibilities, you need to embed appropriate IF statements (a subject treated later in the course).
 
-You may wish to review the technical note for the Garage Case before getting into the Excel file which follows.
+You may wish to review the technical note for the {{% resource_link "8aa5cc99-1214-4979-be4a-205fcd374098" "Garage Case" %}} before getting into the {{% resource_link "92b56a98-393e-46d5-9c11-967f0b4391bf" " Excel file" %}} which follows.
