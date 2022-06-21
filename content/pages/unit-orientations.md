@@ -10,4 +10,18 @@ Unit 1: Introduction (n/a)
 
 Unit 2: Forecast is "always" wrong
 
-Unit 3: Discounted Cash Flow (DCF)
+Unit 3: Discounted Cash Flow
+
+Unit 4: Garage Case
+
+Unit 5: Simulation Mechanics
+
+Unit 6: Excel Template Recitation
+
+Unit 7: Drivers of Flexibility
+
+Unit 8: Decision Analysis
+
+Unit 9: Evaluation Criteria and Utility
+
+Unit 10: Review and Quiz
