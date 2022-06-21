@@ -1,9 +1,9 @@
 ---
 content_type: page
-description: This is assignment 6 for the MIT course IDS.333 Risk and Decision Analysis
-  of fall 2021.
+description: This is the recitation material for the MIT course IDS.333 Risk and Decision
+  Analysis of fall 2021.
 draft: false
-title: Assignment 6
+title: Excel Template Recitation
 uid: 7d0c25e4-563f-4e96-8ff4-c7eb2da1c492
 ---
 ## Concept of Project
@@ -21,5 +21,7 @@ To make sure the project provides a good learning experience, it's necessary to 
 If you decide that you're not going to be ready to do a project this semester, you should drop the full-semester course. You can substitute the half-semester course of first half (Risk and Decision Analysis, IDS.333).  You can also choose to engage in the project-based complementary Spring half-semester course IDS.330 (Real Options for Product and System Design).
 
 Additional resource:
+
+Homework Excel spreadsheet
 
 [How to Create a Tornado Diagram](https://mbounthavong.com/blog/2018/5/26/communicating-data-effectively-with-data-visualizations-tornado-diagram)
