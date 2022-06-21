@@ -1,9 +1,9 @@
 ---
 content_type: page
-description: This is the recitation material for the MIT course IDS.333 Risk and Decision
-  Analysis of fall 2021.
+description: This provides the material for homework 2 in the MIT course IDS.333 Risk
+  and Decision Analysis of fall 2021.
 draft: false
-title: Excel Template Recitation
+title: Homework 2
 uid: 7d0c25e4-563f-4e96-8ff4-c7eb2da1c492
 ---
 ## Concept of Project
