@@ -10,7 +10,7 @@ uid: 11bb4ef9-6cf9-4bac-bb0b-00208a4b5236
 
 The topic emphasizes a fundamental reality;  Any forecast is very unlikely to occur exactly as specified. Realistic planning and management needs to recognize and deal with inevitable risk and uncertainty. Failure to do so can be costly.
 
-Why are Forecasts Wrong?  Things happen:  new political realities, technologies. commercial developments, etc., etc.  The probability that any forecast is correct in time, quantity, or duration is very small. We understand this from our experience—last year (year 2020) pointedly.
+Why are Forecasts Wrong?  Things happen:  new political realities, technologies. commercial developments, etc., etc.  The probability that any forecast is correct in time, quantity, or duration is very small. We understand this from our experience -- last year (year 2020) pointedly.
 
 Despite the reality of uncertainty, traditional planning, design and management is deterministic.  The usual process builds upon a forecast to determine "requirements" or "needs", and then proposes to identify the best way forward. It then ends up with what often amounts to an "optimal plan for a fairy tale set of conditions".
 
