@@ -1,9 +1,9 @@
 ---
 content_type: page
-description: This is assignment 8 for the MIT course IDS.333 Risk and Decision Analysis
-  of fall 2021.
+description: This page is the orientation material for Unit 8 "Decision Analysis"
+  in the MIT course IDS.333 Risk and Decision Analysis of fall 2021.
 draft: false
-title: Assignment 8
+title: Orientation 8
 uid: 2dee623e-4cb8-497c-b447-d8f320b0c253
 ---
 ## Orientation to Decision Analysis
@@ -12,9 +12,9 @@ This unit considers two aspects of Decision Analysis.  First, its mechanics, re
 
 It is useful to understand these aspects of the Decision Analysis paradigm because they provide insight into some fundamental concepts, such as:
 
-1)  "Second-best" choice are often best in fact -- that is, strategies that perform well over many possible scenarios are very often better than plans or designs that are optimal for any specific scenario ;
+1)  "Second-best" choice are often best in fact -- that is, strategies that perform well over many possible scenarios are very often better than plans or designs that are optimal for any specific scenario;
 
-2)  As we manage a system over time, it is important to revise estimates of uncertainties -- and and adjust plans accordingly ; and
+2)  As we manage a system over time, it is important to revise estimates of uncertainties -- and and adjust plans accordingly; and
 
 3) I New information can have great value, in terms of improving plans and designs, and managers should actively consider the value of obtaining more information before making absolute commitments to particular policies.
 
@@ -22,4 +22,4 @@ Decision Analytic became popular in the 1970s and 80s and for a while was widely
 
 {{% resource_link "d00ee76c-e3a2-47de-b259-75a67dc7c24d" "Homework: Decision Analysis and EVPI" %}}
 
-Homework: Decision Analysis and EVPI (solution)
+{{% resource_link "0afb4ce4-09cd-496c-9294-def7e4b9cf87" "Homework: Decision Analysis and EVPI (solution)" %}}
