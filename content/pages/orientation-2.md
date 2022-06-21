@@ -1,12 +1,12 @@
 ---
 content_type: page
-description: This page is the orientation material for the unit "Forecast Is Always
+description: This page is the orientation material for Unit 2 "Forecast Is Always
   Wrong" in the MIT course IDS.333 Risk and Decision Analysis of fall 2021.
 draft: false
 title: Orientation 2
 uid: 11bb4ef9-6cf9-4bac-bb0b-00208a4b5236
 ---
-## Orientation to Unit 2: Forecast is "Always" Wrong
+## Orientation to Unit 2: Forecast Is "Always" Wrong
 
 The topic emphasizes a fundamental reality;  Any forecast is very unlikely to occur exactly as specified. Realistic planning and management needs to recognize and deal with inevitable risk and uncertainty. Failure to do so can be costly.
 
