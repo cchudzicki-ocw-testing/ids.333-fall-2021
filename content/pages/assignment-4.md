@@ -1,9 +1,9 @@
 ---
 content_type: page
-description: This page is the orientation material for Unit 4 "Garage Case" in the
-  MIT course IDS.333 Risk and Decision Analysis of fall 2021.
+description: This page provides material of homework 1 in the MIT course IDS.333 Risk
+  and Decision Analysis of fall 2021.
 draft: false
-title: Orientation 4
+title: Homework 1
 uid: dd8d33c1-9527-4cb2-be2e-55d81a9d37e8
 ---
 ## Excel Spreadsheet General Template for DCF and Simulation
