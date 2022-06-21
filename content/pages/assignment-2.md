@@ -6,7 +6,7 @@ draft: false
 title: Orientation 3
 uid: 99bc49a0-d592-45a8-8c16-e90bf055b47b
 ---
-## Orientation to Discounted Cash Flow (DCF)
+## Orientation to Unit 3: Discounted Cash Flow (DCF)
 
 DCF is the fundamental means of economic evaluation of projects. It is widespread in practice and some class participants will be fully familiar with it.  But experience shows that many in class are rusty on the concept and approach, or have never been introduced to DCF .  The class therefore covers the essential concepts at the start of the class.
 
