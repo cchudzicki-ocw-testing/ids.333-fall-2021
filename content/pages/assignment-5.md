@@ -1,9 +1,9 @@
 ---
 content_type: page
-description: This is assignment 5 for the MIT course IDS.333 Risk and Decision Analysis
-  of fall 2021.
+description: This page is the orientation material for Unit 5 "Simulation Mechanics"
+  in the MIT course IDS.333 Risk and Decision Analysis of fall 2021.
 draft: false
-title: Assignment 5
+title: Orientation 5
 uid: 50d052ed-fabf-4499-8fcf-03062500fc9d
 ---
 ## Orientation to Simulation Mechanics
