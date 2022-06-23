@@ -6,7 +6,7 @@ draft: false
 title: Orientation 7
 uid: 53e18e36-4c42-4735-a7ec-9194fe3dcb43
 ---
-## Orientation to Drivers of Flexibility
+## Drivers of Flexibility
 
 Flexibility is generally an essential part of good planning, design, and management.  It's good to be prepared for what may happen. 
 
