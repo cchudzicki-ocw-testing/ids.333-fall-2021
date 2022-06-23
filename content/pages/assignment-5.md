@@ -6,7 +6,7 @@ draft: false
 title: Orientation 5
 uid: 50d052ed-fabf-4499-8fcf-03062500fc9d
 ---
-## Orientation to Simulation Mechanics
+## Simulation Mechanics
 
 This course is not about programming -- consequently the discussion of simulation stresses concepts rather than detailed mechanics.
 
