@@ -6,7 +6,7 @@ draft: false
 title: Quizzes
 uid: 582dced8-621a-4658-935f-fe0f5304a4bf
 ---
-#### Nature of Quiz
+## Nature of Quiz
 
 This is an “open-book” quiz.  As it would be in professional practice, you can seek out and obtain answers from your notes, texts, the web, friends, etc.
 
@@ -18,7 +18,7 @@ Some, perhaps many of you, will have prepared basic answers in advance. That is 
 
 As stressed in the Quiz Review, responses phrased in exactly the same way as some other student, or taken directly from a text, will not be given credit.  The quiz is to validate your personal understanding, that you can express in your own way.
 
-#### Operational Logistics
+## Operational Logistics
 
 This is a 90-minute quiz.
 
@@ -28,7 +28,7 @@ Note that longer answers are not inherently better!  About 10 sentences should 
 
 {{% resource_link "db790dd2-1c97-451e-ad93-2ebadc3d025f" "Quiz (PDF)" %}}
 
-#### Practice Quizzes
+## Practice Quizzes
 
 {{% resource_link "1783901b-f35d-4e07-a39b-3be4d1a3c7f1" "Practice Quiz 1 (PDF)" %}}
 
