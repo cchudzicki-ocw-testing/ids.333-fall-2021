@@ -23,3 +23,7 @@ leftnav:
   name: Assignments
   url: /pages/assignments2
   weight: 60
+- identifier: 582dced8-621a-4658-935f-fe0f5304a4bf
+  name: Quizzes
+  url: /pages/quizzes
+  weight: 70
