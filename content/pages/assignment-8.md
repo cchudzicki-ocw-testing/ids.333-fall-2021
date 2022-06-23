@@ -6,7 +6,7 @@ draft: false
 title: Orientation 8
 uid: 2dee623e-4cb8-497c-b447-d8f320b0c253
 ---
-## Orientation to Decision Analysis
+## Decision Analysis
 
 This unit considers two aspects of Decision Analysis.  First, its mechanics, represented by the iconic "Decision Tree" way of formatting issues of decision-making under uncertainty. Second, the concept of "Value of Information" which offers guidelines for when and where to invest in collecting additional information as a basic opportunity for implementing Flexibility in System Design and Management.
 
