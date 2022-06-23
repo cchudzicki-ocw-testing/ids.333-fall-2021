@@ -11,7 +11,11 @@ leftnav:
   name: Calendar
   url: /pages/calendar
   weight: 30
+- identifier: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  name: Unit Orientations
+  url: /pages/unit-orientations
+  weight: 40
 - identifier: 4f45d5c4-5144-4091-a0a6-3080b6ce480f
   name: Lecture Notes
   url: /pages/lecture-notes
-  weight: 40
+  weight: 50
