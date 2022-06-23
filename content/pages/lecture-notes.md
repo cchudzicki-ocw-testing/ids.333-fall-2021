@@ -44,7 +44,9 @@ Unit 8: Decision Analysis
 
 Unit 9: Evaluation Criteria and Utility
 
-{{% resource_link "ba338a0a-26ec-4268-9293-d9afc7c6d7d6" "Lecture 10" %}}
+{{% resource_link "a21dc5b3-5ac3-4bb3-a2c8-343badc07220" "Lecture 10 Part 1" %}}
+
+{{% resource_link "4c5dbd55-a40c-4c7e-8092-41e9b17d34ee" "Lecture 10 Part 2" %}}
 
 Unit 10: Review and Quiz
 
