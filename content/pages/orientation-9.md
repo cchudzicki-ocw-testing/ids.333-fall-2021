@@ -6,7 +6,7 @@ draft: false
 title: Orientation 9
 uid: 394085d7-deef-49ed-bbba-da79161001a8
 ---
-## Orientation to Evaluation Week
+## Evaluation Week
 
 This week addresses the fundamental question: What are suitable criteria of evaluation and choice?
 
