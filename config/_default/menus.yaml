@@ -19,3 +19,7 @@ leftnav:
   name: Lecture Notes
   url: /pages/lecture-notes
   weight: 50
+- identifier: a9dea254-394d-4c17-acae-73a0a0167280
+  name: Assignments
+  url: /pages/assignments2
+  weight: 60
