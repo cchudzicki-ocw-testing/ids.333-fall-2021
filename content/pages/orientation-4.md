@@ -6,7 +6,7 @@ draft: false
 title: Orientation 4
 uid: ae675aea-581d-461a-afc4-806acbba6a64
 ---
-## Orientation to Garage Case Example
+## Garage Case Example
 
 The garage case provides a preview of the process of exploring the effects of uncertainty on a project and system, and of using flexible strategies to improve overall performance. The remainder of the course develops the detailed issues and applications.
 
