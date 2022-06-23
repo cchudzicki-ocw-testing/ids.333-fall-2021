@@ -3,13 +3,13 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
-- identifier: 06372928-dc6b-4f78-9b44-8a0ff80e2c9f
-  name: Instructor Insights
-  url: /pages/instructor-insights
-  weight: 20
 - identifier: d7b7e804-d8d2-4f8b-9d95-d4c568d245ef
   name: Calendar
   url: /pages/calendar
+  weight: 20
+- identifier: 06372928-dc6b-4f78-9b44-8a0ff80e2c9f
+  name: Instructor Insights
+  url: /pages/instructor-insights
   weight: 30
 - identifier: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
   name: Unit Orientations
