@@ -12,11 +12,11 @@ Unit 1: Introduction (n/a)
 
 {{% resource_link "99bc49a0-d592-45a8-8c16-e90bf055b47b" "Unit 3: Discounted Cash Flow" %}}
 
-Unit 4: Garage Case
+{{% resource_link "ae675aea-581d-461a-afc4-806acbba6a64" "Unit 4: Garage Case" %}}
 
 {{% resource_link "50d052ed-fabf-4499-8fcf-03062500fc9d" "Unit 5: Simulation Mechanics" %}}
 
-Unit 6: Excel Template Recitation
+Unit 6: Excel Template Recitation (n/a)
 
 {{% resource_link "53e18e36-4c42-4735-a7ec-9194fe3dcb43" "Unit 7: Drivers of Flexibility" %}}
 
