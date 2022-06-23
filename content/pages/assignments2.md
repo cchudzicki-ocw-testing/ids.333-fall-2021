@@ -8,8 +8,8 @@ uid: a9dea254-394d-4c17-acae-73a0a0167280
 ---
 {{% resource_link "d743ab83-0751-4b53-998b-46f706c5e13f" "Homework 1" %}}
 
-Homework 2
+{{% resource_link "051b8ae8-07e1-4814-9a2d-a45d973fe5e0" "Homework 2" %}}
 
-Homework 3
+{{% resource_link "93e0c819-68cb-4bac-a794-5b02339f69bc" "Homework 3" %}}
 
-Homework 3 (solution)
+{{% resource_link "7577b7d2-55db-467b-917c-e568b7fe3066" "Homework 3 (solution)" %}}
