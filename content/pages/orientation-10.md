@@ -6,7 +6,7 @@ draft: false
 title: Orientation 10
 uid: ef171f2e-e5b1-481a-883a-a2a32136a9e7
 ---
-## Orientation to LNG Case
+## LNG Case
 
 The half-semester session closes as it started -- with a case illustrating the use and value of Flexibility in Design.
 
