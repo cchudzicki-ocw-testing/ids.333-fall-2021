@@ -8,24 +8,44 @@ uid: 4f45d5c4-5144-4091-a0a6-3080b6ce480f
 ---
 All available lecture notes are provided below:
 
+Unit 1: Introduction
+
 {{% resource_link "1ee83378-d941-4649-9ec4-e63991e89596" "Lecture 1" %}}
+
+Unit 2:  Forecast Is "Always" Wrong
 
 {{% resource_link "98f71538-081e-494a-99ca-548ea1577eaa" "Lecture 2" %}}
 
+Unit 3: Discounted Cash Flow
+
 Lecture 3 (not available)
+
+Unit 4: Garage Case
 
 {{% resource_link "8aa5cc99-1214-4979-be4a-205fcd374098" "Lecture 4" %}}
 
+Unit 5: Simulation Mechanics
+
 {{% resource_link "83083d51-d08f-44af-a64a-07fec8b28dea" "Lecture 5" %}}
+
+Unit 6: Excel Template Recitation
 
 Lecture 6 (not available)
 
+Unit 7: Drivers of Flexibility
+
 {{% resource_link "249e1d3d-5fac-4d7f-9313-a1f02cb394b6" "Lecture 7" %}}
+
+Unit 8: Decision Analysis
 
 {{% resource_link "078ce200-569d-4c87-93ce-57e6b4235f32" "Lecture 8" %}}
 
 {{% resource_link "7794e707-5cf6-4a86-a243-bd45b2125a21" "Lecture 9" %}}
 
+Unit 9: Evaluation Criteria and Utility
+
 {{% resource_link "ba338a0a-26ec-4268-9293-d9afc7c6d7d6" "Lecture 10" %}}
+
+Unit 10: Review and Quiz
 
 {{% resource_link "d54b85da-4705-4c10-bffc-78692f0fdf66" "Lecture 11" %}}
