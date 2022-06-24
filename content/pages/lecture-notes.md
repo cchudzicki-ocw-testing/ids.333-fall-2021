@@ -30,7 +30,7 @@ All available lecture notes are provided below:
 
 ## Unit 6: Excel Template Recitation
 
-Session 6 (not available)
+Session 6 Excel Template Recitation (not available)
 
 ## Unit 7: Drivers of Flexibility
 
