@@ -10,7 +10,7 @@ uid: ae675aea-581d-461a-afc4-806acbba6a64
 
 The garage case provides a preview of the process of exploring the effects of uncertainty on a project and system, and of using flexible strategies to improve overall performance. The remainder of the course develops the detailed issues and applications.
 
-Think of this case as a teaching tool. It deliberately simplifies the uncertainties, the economic model, the range of flexibilities that could be used.  It also concerns a really simple technological design -- how many levels to build for a parking garage?
+Think of this case as a teaching tool. It deliberately simplifies the uncertainties, the economic model, the range of flexibilities that could be used. It also concerns a really simple technological design -- how many levels to build for a parking garage?
 
 Focus your attention on the 3 points the case emphasizes:
 
@@ -20,4 +20,4 @@ Focus your attention on the 3 points the case emphasizes:
 
 (3) Flexible plans and strategies can provide win-win strategies -- by reducing potential losses and increasing possible gains.
 
-The case was inspired by the design of a major parking garage in the UK.  Also, the question of Flexibility in the Design of Garages is gaining traction due to uncertainties about how people might shift ride services or daily rentals, instead of owning cars. Should developers of apartment buildings design garages so that these spaces can easily be converted to other uses?
+The case was inspired by the design of a major parking garage in the UK.  Also, the question of flexibility in the design of garages is gaining traction due to uncertainties about how people might shift ride services or daily rentals, instead of owning cars. Should developers of apartment buildings design garages so that these spaces can easily be converted to other uses?
