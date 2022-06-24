@@ -16,7 +16,7 @@ What you should retain is that simulation is a powerful way to explore the effec
 
 1) deal with any shape of input distributions (not only mathematical functions);
 
-2) consider many different forms of flexibility (options) simultaneously (not just one at a time);
+2) consider many different forms of flexibility (options) simultaneously (not just one at a time); and
 
 3) when the criteria for choice can vary over time.
 
