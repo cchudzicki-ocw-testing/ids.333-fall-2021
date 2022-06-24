@@ -14,9 +14,9 @@ This course was taught at MIT as a half-term course. Users can choose a learning
 
 \[XL\] = "Excel Boot Camp” material
 
-## Unit 1
+## Unit 1 Introduction
 
-### Session 1
+### Session 1 Risk and Decision Analysis; Engineering Systems Analysis for Design
 
 Topic: Introduction; Paradigm Change; Lordos example
 
@@ -28,9 +28,9 @@ Major Assignment: HW 1 Document Experience out
 
 Intended Take-aways: Paradigm Change
 
-## Unit 2
+## Unit 2 Forecast Is "Always" Wrong
 
-### Session 2
+### Session 2 The Forecast Is "Always" Wrong
 
 Topic: Forecast "always wrong;" Flaw of Averages
 
@@ -42,9 +42,9 @@ Major Assignment: n/a
 
 Intended Take-aways: Forecast is "always" wrong’! We must deal with distribution recognizing overconfidence.
 
-## Unit 3
+## Unit 3 Discounted Cash Flow (DCF)
 
-### Session 3
+### Session 3 DCF Analysis Introduction and DCF Mechanics
 
 Topic: Discounted Cash Flow
 
@@ -56,9 +56,9 @@ Major Assignment: n/a
 
 Intended Take-aways: Time Value of Money; Choice of discount rate is crucial.
 
-## Unit 4
+## Unit 4 Garage Case
 
-### Session 4
+### Session 4 Garage Case Example
 
 Topic: Garage Case
 
@@ -70,9 +70,9 @@ Major Assignment: HW 2 Excel out
 
 Intended Take-aways: Flexibility as Win-Win
 
-## Unit 5
+## Unit 5 Simulation Mechanics
 
-### Session 5
+### Session 5 Mechanics of Simulation
 
 Topic: Simulation Mechanics
 
@@ -84,9 +84,9 @@ Major Assignment: HW 1 due
 
 Intended Take-aways: Rapid Excel Analysis of Complex Choices
 
-## Unit 6
+## Unit 6 Excel Template Recitation
 
-### Session 6
+### Session 6 Excel Template Recitation
 
 Topic: Excel Template Recitation
 
@@ -98,9 +98,9 @@ Major Assignment: Draft HW 2 due
 
 Intended Take-aways: Practical Use of Simulation
 
-## Unit 7 
+## Unit 7 Drivers of Flexibility
 
-### Session 7
+### Session 7 Excel Template Recitation
 
 Topic: Flexibility Drivers; Optimal Cycle time
 
@@ -112,9 +112,9 @@ Major Assignment: HW 3 Decision Analysis and EVPI out 
 
 Intended Take-aways: Discount rate and learning curve vs. Economies of Scale
 
-## Unit 8
+## Unit 8 Decision Analysis
 
-### Session 8
+### Session 8 Decision Analysis
 
 Topic: Decision Analysis
 
@@ -126,9 +126,9 @@ Major Assignment: HW 2 due
 
 Intended Take-aways: Structured Analysis Limited Choice and Timing
 
-## Unit 9
+## Unit 9 Value of Information
 
-### Session 9
+### Session 9 Information Gathering as a Strategy
 
 Topic: Value of Information
 
@@ -140,9 +140,9 @@ Major Assignment: n/a
 
 Intended Take-aways: Waiting leads to valuable Learning.
 
-## Unit 10
+## Unit 10 Utility Analysis and Multidimensional Evaluation
 
-### Session 10-1
+### Session 10-1 Evaluating and Choosing Preferred Projects
 
 Topic: Other Evaluation Criteria
 
@@ -154,9 +154,7 @@ Major Assignment: n/a
 
 Intended Take-aways: Expectation v.s. Risk Aversion, is optimum a good concept?
 
-### Unit 10
-
-### Session 10-2
+### Session 10-2 Economic Evaluation 
 
 Topic: Utility Analysis
 
@@ -168,9 +166,9 @@ Major Assignment: HW 3 due
 
 Intended Take-aways: Group Utility not Meaningful
 
-## Unit 11
+## Unit 11 Review and Quiz
 
-### Session 11
+### Session 11 Investment in Large Plants
 
 Topic: Review for Quiz
 
