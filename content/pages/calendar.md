@@ -14,6 +14,8 @@ This course was taught at MIT as a half-term course. Users can choose a learning
 
 \[XL\] = "Excel Boot Camp” material
 
+## Unit 1
+
 ### Session 1
 
 Topic: Introduction; Paradigm Change; Lordos example
@@ -25,6 +27,8 @@ Pre-Class Assignment: Self-Introduction (video)
 Major Assignment: HW 1 Document Experience out
 
 Intended Take-aways: Paradigm Change
+
+## Unit 2
 
 ### Session 2
 
@@ -38,6 +42,8 @@ Major Assignment: n/a
 
 Intended Take-aways: Forecast is "always" wrong’! We must deal with distribution recognizing overconfidence.
 
+## Unit 3
+
 ### Session 3
 
 Topic: Discounted Cash Flow
@@ -49,6 +55,8 @@ Pre-Class Assignment: \[ASA\] Chapters 12 and 13 (readings)
 Major Assignment: n/a
 
 Intended Take-aways: Time Value of Money; Choice of discount rate is crucial.
+
+## Unit 4
 
 ### Session 4
 
@@ -62,6 +70,8 @@ Major Assignment: HW 2 Excel out
 
 Intended Take-aways: Flexibility as Win-Win
 
+## Unit 5
+
 ### Session 5
 
 Topic: Simulation Mechanics
@@ -73,6 +83,8 @@ Pre-Class Assignment: Simulation (videos)
 Major Assignment: HW 1 due
 
 Intended Take-aways: Rapid Excel Analysis of Complex Choices
+
+## Unit 6
 
 ### Session 6
 
@@ -86,6 +98,8 @@ Major Assignment: Draft HW 2 due
 
 Intended Take-aways: Practical Use of Simulation
 
+## Unit 7 
+
 ### Session 7
 
 Topic: Flexibility Drivers; Optimal Cycle time
@@ -97,6 +111,8 @@ Pre-Class Assignment: Manne Images (videos)
 Major Assignment: HW 3 Decision Analysis and EVPI out 
 
 Intended Take-aways: Discount rate and learning curve vs. Economies of Scale
+
+## Unit 8
 
 ### Session 8
 
@@ -110,6 +126,8 @@ Major Assignment: HW 2 due
 
 Intended Take-aways: Structured Analysis Limited Choice and Timing
 
+## Unit 9
+
 ### Session 9
 
 Topic: Value of Information
@@ -122,7 +140,9 @@ Major Assignment: n/a
 
 Intended Take-aways: Waiting leads to valuable Learning.
 
-### Session 10
+## Unit 10
+
+### Session 10-1
 
 Topic: Other Evaluation Criteria
 
@@ -134,7 +154,9 @@ Major Assignment: n/a
 
 Intended Take-aways: Expectation v.s. Risk Aversion, is optimum a good concept?
 
-### Session 11
+### Unit 10
+
+### Session 10-2
 
 Topic: Utility Analysis
 
@@ -146,7 +168,9 @@ Major Assignment: HW 3 due
 
 Intended Take-aways: Group Utility not Meaningful
 
-### Session 12
+## Unit 11
+
+### Session 11
 
 Topic: Review for Quiz
 
