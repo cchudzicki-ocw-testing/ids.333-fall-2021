@@ -40,14 +40,16 @@ Session 7 (PDF)
 
 Session 8 (PDF)
 
+## Unit 9: Value of Information 
+
 Session 9 (PDF)
 
-## Unit 9: Evaluation Criteria and Utility
+## Unit 10: Utility Analysis and Multidimensional Evaluation
 
 Session 10 Part 1 (PDF)
 
 Session 10 Part 2 (PDF)
 
-## Unit 10: Review and Quiz
+## Unit 11: Review and Quiz
 
-Session 11 (PDF)
+{{% resource_link "83fbf48f-97cc-414c-b9d7-92b4d027eeea" "Session 11 (PDF)" %}}
