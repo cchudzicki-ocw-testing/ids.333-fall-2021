@@ -10,44 +10,44 @@ All available lecture notes are provided below:
 
 ## Unit 1: Introduction
 
-Lecture 1 (PDF)
+Session 1 (PDF)
 
 ## Unit 2:  Forecast Is "Always" Wrong
 
-Lecture 2 (PDF)
+Session 2 (PDF)
 
 ## Unit 3: Discounted Cash Flow
 
-Lecture 3 (not available)
+Session 3 (not available)
 
 ## Unit 4: Garage Case
 
-Lecture 4 (PDF)
+Session 4 (PDF)
 
 ## Unit 5: Simulation Mechanics
 
-Lecture 5 (PDF)
+Session 5 (PDF)
 
 ## Unit 6: Excel Template Recitation
 
-Lecture 6 (not available)
+Session 6 (not available)
 
 ## Unit 7: Drivers of Flexibility
 
-Lecture 7 (PDF)
+Session 7 (PDF)
 
 ## Unit 8: Decision Analysis
 
-Lecture 8 (PDF)
+Session 8 (PDF)
 
-Lecture 9 (PDF)
+Session 9 (PDF)
 
 ## Unit 9: Evaluation Criteria and Utility
 
-Lecture 10 Part 1 (PDF)
+Session 10 Part 1 (PDF)
 
-Lecture 10 Part 2 (PDF)
+Session 10 Part 2 (PDF)
 
 ## Unit 10: Review and Quiz
 
-Lecture 11 (PDF)
+Session 11 (PDF)
