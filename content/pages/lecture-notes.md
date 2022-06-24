@@ -16,9 +16,9 @@ Session 1 Risk and Decision Analysis; Engineering Systems Analysis for Design (P
 
 Session 2 The Forecast Is "Always" Wrong (PDF)
 
-## Unit 3: Discounted Cash Flow
+## Unit 3: Discounted Cash Flow (DCF)
 
-Session 3 (not available)
+Session 3 DCF Analysis Introduction and DCF Mechanics (PDF)
 
 ## Unit 4: Garage Case
 
