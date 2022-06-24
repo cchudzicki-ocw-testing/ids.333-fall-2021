@@ -10,11 +10,11 @@ All available lecture notes are provided below:
 
 ## Unit 1: Introduction
 
-Session 1 (PDF)
+Session 1 Risk and Decision Analysis; Engineering Systems Analysis for Design (PDF)
 
 ## Unit 2:  Forecast Is "Always" Wrong
 
-Session 2 (PDF)
+Session 2 The Forecast Is "Always" Wrong (PDF)
 
 ## Unit 3: Discounted Cash Flow
 
@@ -22,7 +22,7 @@ Session 3 (not available)
 
 ## Unit 4: Garage Case
 
-Session 4 (PDF)
+[Session 4](https://web.mit.edu/deweck/Public/Alstom/deNeufville_et_al_2006.pdf)
 
 ## Unit 5: Simulation Mechanics
 
