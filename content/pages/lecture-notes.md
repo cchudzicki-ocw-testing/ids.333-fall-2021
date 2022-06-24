@@ -10,7 +10,7 @@ All available lecture notes are provided below:
 
 ## Unit 1: Introduction
 
-Session 1 Risk and Decision Analysis; Engineering Systems Analysis for Design (PDF)
+{{% resource_link "cd110cad-87cb-44e5-9057-bef4bf0f417a" "Session 1 Risk and Decision Analysis; Engineering Systems Analysis for Design (PDF)" %}}
 
 ## Unit 2:  Forecast Is "Always" Wrong
 
