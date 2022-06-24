@@ -10,11 +10,11 @@ uid: 394085d7-deef-49ed-bbba-da79161001a8
 
 This week addresses the fundamental question: What are suitable criteria of evaluation and choice?
 
-So far. the class has focused on NPV for simplicity, as it provides a good way to incorporate the "time value of money" that is so necessary when we consider system decision and management that properly deals with decisions we take over time.
+So far, the class has focused on NPV for simplicity, as it provides a good way to incorporate the "time value of money" that is so necessary when we consider system decision and management that properly deals with decisions we take over time.
 
 NPV is obviously not fully satisfactory! In particular, it does not deal either with benefits that are not monetary or financial (lives saved for example), or recognizes the risk-reward tradeoffs that decision-makers constantly face.
 
-This week closes the "Risk and Decision Analysis" 6-week segment by exploring the range of criteria for evaluation and choice. The first class explores purely economic approaches.  The  second deals with the concept of "Utility", often loosely used to balance values that are not easily comparable.
+This week closes the "Risk and Decision Analysis" 6-week segment by exploring the range of criteria for evaluation and choice. The first class explores purely economic approaches.  The second deals with the concept of "Utility", often loosely used to balance values that are not easily comparable.
 
 The main take-aways are: 
 
