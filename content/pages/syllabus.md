@@ -16,13 +16,13 @@ None
 
 ## Course Concept
 
-It addresses a fundamental issue in System Design and Management: The need for engineering leaders to recognize uncertainty in the performance of their plans or designs. How should we analyze and cope with risks in demand, requirements, cost, technology, etc.?               
+It addresses a fundamental issue in System Design and Management: The need for engineering leaders to recognize uncertainty in the performance of their plans or designs. How should we analyze and cope with risks in demand, requirements, cost, technology, etc.?                
 This course presents Discounted Cash Flow (DCF) Excel models, simulation, and decision analysis as primary ways to analyze possible outcomes of design and management strategies.             
 
-The learning objective is to provide an overall view of the use, benefit, and mechanics of essential tools for Risk and Decision Analysis. Specifically, to learn that:               
-1\. You can’t really avoid uncertainty (as design processes often do).               
-2\. Because, if you do, you get inferior results—and sometimes major financial losses.               
-3\. So, you need to address uncertainty proactively as part of design process.               
+The learning objective is to provide an overall view of the use, benefit, and mechanics of essential tools for Risk and Decision Analysis. Specifically, to learn that:                
+1\. You can’t really avoid uncertainty (as design processes often do).                
+2\. Because, if you do, you get inferior results—and sometimes major financial losses.                
+3\. So, you need to address uncertainty proactively as part of design process.                
 4\. You can choose between methods based on the circumstances.             
 
 A quiz at the end of term validates your understanding of the class material.
@@ -37,9 +37,9 @@ The responses to “pre-reads” will not be graded. But they will count toward 
 
 ## Grading 
 
-Course grades will be a weighted average of:             
-• Participation (including pre-class assignments) 30%             
-• 3 Homework Assignments 36% (equal weight on each assignment)             
+Course grades will be a weighted average of:              
+• Participation (including pre-class assignments) 30%              
+• 3 Homework Assignments 36% (equal weight on each assignment)              
 • Quiz 34%
 
 ## Text
