@@ -3,7 +3,7 @@ content_type: page
 description: This page is the orientation material for Unit 8 "Decision Analysis"
   in the MIT course IDS.333 Risk and Decision Analysis of fall 2021.
 draft: false
-title: Orientation 8
+title: Orientation 8 and 9
 uid: 2dee623e-4cb8-497c-b447-d8f320b0c253
 ---
 ## Decision Analysis
