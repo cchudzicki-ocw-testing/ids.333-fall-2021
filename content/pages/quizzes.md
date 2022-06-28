@@ -26,7 +26,9 @@ This template provides space after each question for your answer. This space is 
 
 Note that longer answers are not inherently better!  About 10 sentences should do nicely in most cases.
 
-{{% resource_link "db790dd2-1c97-451e-ad93-2ebadc3d025f" "Quiz (PDF)" %}}
+## Current Quiz Format
+
+{{% resource_link "db790dd2-1c97-451e-ad93-2ebadc3d025f" "2022 Quiz (PDF)" %}}
 
 ## Practice Quizzes
 
