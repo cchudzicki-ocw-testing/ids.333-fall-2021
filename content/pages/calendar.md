@@ -28,7 +28,7 @@ Major Assignment: HW 1 Document Experience out
 
 Intended Take-aways: Paradigm Change
 
-## Unit 2 Forecast Is "Always" Wrong
+## {{% resource_link "11bb4ef9-6cf9-4bac-bb0b-00208a4b5236" "Unit 2 Forecast Is \"Always\" Wrong" %}}
 
 ### Session 2 The Forecast Is "Always" Wrong
 
@@ -42,7 +42,7 @@ Major Assignment: n/a
 
 Intended Take-aways: Forecast is "always" wrong’! We must deal with distribution recognizing overconfidence.
 
-## Unit 3 Discounted Cash Flow (DCF)
+## {{% resource_link "99bc49a0-d592-45a8-8c16-e90bf055b47b" "Unit 3 Discounted Cash Flow (DCF)" %}}
 
 ### Session 3 DCF Analysis Introduction and DCF Mechanics
 
@@ -56,7 +56,7 @@ Major Assignment: n/a
 
 Intended Take-aways: Time Value of Money; Choice of discount rate is crucial.
 
-## Unit 4 Garage Case
+## {{% resource_link "ae675aea-581d-461a-afc4-806acbba6a64" "Unit 4 Garage Case" %}}
 
 ### Session 4 Garage Case Example
 
@@ -70,7 +70,7 @@ Major Assignment: HW 2 Excel out
 
 Intended Take-aways: Flexibility as Win-Win
 
-## Unit 5 Simulation Mechanics
+## {{% resource_link "50d052ed-fabf-4499-8fcf-03062500fc9d" "Unit 5 Simulation Mechanics" %}}
 
 ### Session 5 Mechanics of Simulation
 
@@ -98,7 +98,7 @@ Major Assignment: Draft HW 2 due
 
 Intended Take-aways: Practical Use of Simulation
 
-## Unit 7 Drivers of Flexibility
+## {{% resource_link "53e18e36-4c42-4735-a7ec-9194fe3dcb43" "Unit 7 Drivers of Flexibility" %}}
 
 ### Session 7 Excel Template Recitation
 
@@ -112,7 +112,7 @@ Major Assignment: HW 3 Decision Analysis and EVPI out 
 
 Intended Take-aways: Discount rate and learning curve vs. Economies of Scale
 
-## Unit 8 Decision Analysis
+## {{% resource_link "2dee623e-4cb8-497c-b447-d8f320b0c253" "Unit 8 Decision Analysis" %}}
 
 ### Session 8 Decision Analysis
 
@@ -140,7 +140,7 @@ Major Assignment: n/a
 
 Intended Take-aways: Waiting leads to valuable Learning.
 
-## Unit 10 Utility Analysis and Multidimensional Evaluation
+## {{% resource_link "394085d7-deef-49ed-bbba-da79161001a8" "Unit 10 Utility Analysis and Multidimensional Evaluation" %}}
 
 ### Session 10-1 Evaluating and Choosing Preferred Projects
 
@@ -166,7 +166,7 @@ Major Assignment: HW 3 due
 
 Intended Take-aways: Group Utility not Meaningful
 
-## Unit 11 Review and Quiz
+## {{% resource_link "ef171f2e-e5b1-481a-883a-a2a32136a9e7" "Unit 11 Review and Quiz" %}}
 
 ### Session 11 Investment in Large Plants
 
