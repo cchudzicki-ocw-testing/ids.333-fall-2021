@@ -3,7 +3,7 @@ content_type: page
 description: This page is the orientation material for Unit 10 "LNG Case" in the MIT
   course IDS.333 Risk and Decision Analysis of fall 2021.
 draft: false
-title: Orientation 11
+title: Unit 11
 uid: ef171f2e-e5b1-481a-883a-a2a32136a9e7
 ---
 ## LNG Case
