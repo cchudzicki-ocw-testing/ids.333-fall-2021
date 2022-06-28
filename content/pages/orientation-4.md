@@ -3,7 +3,7 @@ content_type: page
 description: This page is the orientation material for Unit 4 "Garage Case" in the
   MIT course IDS.333 Risk and Decision Analysis of fall 2021.
 draft: false
-title: Orientation 4
+title: Unit 4
 uid: ae675aea-581d-461a-afc4-806acbba6a64
 ---
 ## Garage Case Example
