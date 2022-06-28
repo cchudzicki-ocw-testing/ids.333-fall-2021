@@ -6,7 +6,7 @@ draft: false
 title: Calendar
 uid: d7b7e804-d8d2-4f8b-9d95-d4c568d245ef
 ---
-This course was taught at MIT as a half-term course. Users can choose a learning pace based on their learning need.
+This course was taught at MIT as a half-term course. Learners can choose a learning pace based on their learning need.
 
 \[FD\] = de Neufville, R. and S. Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230.
 
