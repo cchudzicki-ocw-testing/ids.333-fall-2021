@@ -32,6 +32,8 @@ Note that longer answers are not inherently better!  About 10 sentences should 
 
 ## Practice Quizzes
 
+The following traditional quizzes were used before 2021. Under the”flipped classroom” approach the quiz now emphasizes understanding.
+
 {{% resource_link "1783901b-f35d-4e07-a39b-3be4d1a3c7f1" "Practice Quiz 1 (PDF)" %}}
 
 {{% resource_link "f253bea5-c385-4469-a602-582de0c6b0fb" "Practice Quiz 1 solution (PDF)" %}}
