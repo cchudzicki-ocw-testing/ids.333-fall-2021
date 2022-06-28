@@ -6,7 +6,7 @@ draft: false
 title: Assignments
 uid: a9dea254-394d-4c17-acae-73a0a0167280
 ---
-Homework 1 (PDF)
+{{% resource_link "2fb83505-3b9f-4192-9d61-9eb2e283a6a6" "Homework 1 (PDF)" %}}
 
 {{% resource_link "051b8ae8-07e1-4814-9a2d-a45d973fe5e0" "Homework 2 (PDF)" %}}
 
