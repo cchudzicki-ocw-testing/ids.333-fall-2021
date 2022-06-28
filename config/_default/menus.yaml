@@ -37,3 +37,33 @@ leftnav:
   parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
   url: /pages/assignment-2
   weight: 20
+- identifier: ae675aea-581d-461a-afc4-806acbba6a64
+  name: Unit 4
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  url: /pages/orientation-4
+  weight: 30
+- identifier: 50d052ed-fabf-4499-8fcf-03062500fc9d
+  name: Unit 5
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  url: /pages/assignment-5
+  weight: 40
+- identifier: 53e18e36-4c42-4735-a7ec-9194fe3dcb43
+  name: Unit 7
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  url: /pages/assignment-7
+  weight: 50
+- identifier: 2dee623e-4cb8-497c-b447-d8f320b0c253
+  name: Unit 8
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  url: /pages/assignment-8
+  weight: 60
+- identifier: 394085d7-deef-49ed-bbba-da79161001a8
+  name: Unit 10
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  url: /pages/orientation-9
+  weight: 70
+- identifier: ef171f2e-e5b1-481a-883a-a2a32136a9e7
+  name: Unit 11
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  url: /pages/orientation-10
+  weight: 80
