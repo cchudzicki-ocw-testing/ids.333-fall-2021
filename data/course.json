@@ -27,7 +27,7 @@
     "website": "risk-and-decision-analysis"
   },
   "course_title": "IDS.333 Risk and Decision Analysis",
-  "course_description": "This course presents Discounted cash flow (DCF) Excel models, simulation, and decision analysis as primary ways to analyze possible outcomes of design and management strategies. It addresses a fundamental issue in system design and management, the need for engineering leaders to recognize uncertainty in the performance of their plans or designs. It also addresses how we should analyze possible performance outcomes and cope with risks in demand, requirements, cost, technology, etc.",
+  "course_description": "The course addresses a fundamental issue in system design and management, the need for engineering leaders to recognize uncertainty in the performance of their plans or designs. It presents discounted cash flow (DCF) Excel models, simulation, and decision analysis as primary ways to analyze possible outcomes of design and management strategies. It also addresses how we should analyze possible performance outcomes and cope with risks in demand, requirements, cost, technology, etc.",
   "department_numbers": [
     "IDS"
   ],
