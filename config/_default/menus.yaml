@@ -12,7 +12,7 @@ leftnav:
   url: /pages/instructor-insights
   weight: 30
 - identifier: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
-  name: Unit Orientations
+  name: Units
   url: /pages/unit-orientations
   weight: 40
 - identifier: 4f45d5c4-5144-4091-a0a6-3080b6ce480f
@@ -27,3 +27,13 @@ leftnav:
   name: Quizzes
   url: /pages/quizzes
   weight: 70
+- identifier: 11bb4ef9-6cf9-4bac-bb0b-00208a4b5236
+  name: Unit 2
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  url: /pages/orientation-2
+  weight: 10
+- identifier: 99bc49a0-d592-45a8-8c16-e90bf055b47b
+  name: Unit 3
+  parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
+  url: /pages/assignment-2
+  weight: 20
