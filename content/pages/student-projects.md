@@ -6,6 +6,12 @@ draft: false
 title: Student Projects
 uid: 294deb3a-bba4-40cd-b009-cfc039e11fb6
 ---
+This sections provides recent aspirational examples of projects. Use them as inspirations and guides.
+
+Several of the student projects led to theses or conference presentations. 
+
+The following examples cover topics, including aeronautics and energy.
+
 Student Project Example 1
 
 Student Project Example 2
