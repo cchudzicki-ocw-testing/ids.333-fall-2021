@@ -3,7 +3,7 @@ content_type: page
 description: This page is the orientation material for Unit 3 "Discounted Cash Flow
   (DCF)" in the MIT course IDS.333 Risk and Decision Analysis of fall 2021.
 draft: false
-title: Orientation 3
+title: Unit 3
 uid: 99bc49a0-d592-45a8-8c16-e90bf055b47b
 ---
 ## Discounted Cash Flow (DCF)
