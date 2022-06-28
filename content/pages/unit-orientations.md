@@ -20,7 +20,9 @@ Unit 6: Excel Template Recitation (n/a)
 
 {{% resource_link "53e18e36-4c42-4735-a7ec-9194fe3dcb43" "Unit 7: Drivers of Flexibility" %}}
 
-{{% resource_link "2dee623e-4cb8-497c-b447-d8f320b0c253" "Unit 8: Decision Analysis and Unit 9: Value of Information  " %}} 
+{{% resource_link "2dee623e-4cb8-497c-b447-d8f320b0c253" "Unit 8: Decision Analysis" %}}
+
+Unit 9: Value of Information (n/a)
 
 {{% resource_link "394085d7-deef-49ed-bbba-da79161001a8" "Unit 10: Utility Analysis and Multidimensional Evaluation" %}}
 
