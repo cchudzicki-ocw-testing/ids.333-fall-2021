@@ -10,7 +10,7 @@ This sections provides recent aspirational examples of projects. Use them as ins
 
 Several of the student projects led to theses or conference presentations. 
 
-The following examples cover topics, including aeronautics and energy.
+The following examples cover topics, including aeronautics and energy:
 
 Student Project example 1 report ({{% resource_link "78338d76-c8e4-4554-a798-3b8069c20e95" "PDF" %}}) and presentation slides ({{% resource_link "88b395de-1622-4c6c-8102-ec0ec879e578" "PDF" %}})
 
