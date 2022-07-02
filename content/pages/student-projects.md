@@ -12,6 +12,6 @@ Several of the student projects led to theses or conference presentations. 
 
 The following examples cover topics, including aeronautics and energy.
 
-Student Project Example 1 (report and presentation slides)
+Student Project example 1 report ({{% resource_link "78338d76-c8e4-4554-a798-3b8069c20e95" "PDF" %}}) and presentation slides ({{% resource_link "88b395de-1622-4c6c-8102-ec0ec879e578" "PDF" %}})
 
-Student Project Example 2 (report and presentation slides)
+Student project example 2 report ({{% resource_link "88021d1c-c0ee-4534-9ac2-fe1d7f944be4" "PDF" %}}) and presentation slides ({{% resource_link "33319a00-3a2e-4547-beb1-2ceb72455cbe" "PDF" %}})
