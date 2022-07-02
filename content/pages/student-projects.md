@@ -12,6 +12,6 @@ Several of the student projects led to theses or conference presentations. 
 
 The following examples cover topics, including aeronautics and energy.
 
-Student Project Example 1
+Student Project Example 1 (report and presentation slides)
 
-Student Project Example 2
+Student Project Example 2 (report and presentation slides)
