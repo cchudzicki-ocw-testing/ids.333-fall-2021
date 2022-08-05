@@ -1,18 +1,18 @@
 ---
+body: ''
 content_type: resource
-description: ''
-draft: ''
-file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_lec1.pdf
-file_type: application/pdf
+draft: false
+file: /gdrive_uploads/risk-and-decision-analysis/15jx6NijV8RvsfueyXAU6rVU7JduJAT-8/unit-7-drivers-video-3.mp4
+file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Document
-title: MIT_IDS_333f21_lec1.pdf
-uid: 96ea9918-5920-481d-aaeb-d337f7fd2e37
+resourcetype: Video
+title: Unit 7 Drivers Video 3.mp4
+uid: 5b9861fe-1079-4d43-9fc5-3258ddfc9b88
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
@@ -20,5 +20,6 @@ video_files:
 video_metadata:
   video_speakers: ''
   video_tags: ''
+  youtube_description: ''
   youtube_id: ''
 ---
