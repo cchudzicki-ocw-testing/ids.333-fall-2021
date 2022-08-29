@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 9 Value of Info Video 4.mp4
+title: 'Unit 9: Value of Information 4, Video 4: Expected Value of Perfect Information'
 uid: 3630744f-f3d3-4765-b17d-896b6f69ec2c
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1ZhKHjjGrnoTddhI8VR5H11fBaBHg5W1P_transcript.webvtt
@@ -19,7 +20,18 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1ZhKHjjGrnoTddhI8VR5H11fBaBHg5W1P_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: concept of perfect information, EVPI, Cassandra Machine, practical value
+    of information
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nPerfect information is a hypothetical concept that provides an easy-to-calculate\
+    \ upper bound on value of information. The process is simple and intuitive.\n\n\
+    License: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
+    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
+    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: Vsxfd97trIk
 ---
+Perfect information is a hypothetical concept that provides an easy-to-calculate upper bound on value of information. The process is simple and intuitive.
