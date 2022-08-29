@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 5 Simulation Video 5.mp4
+title: 'Unit 5: Mechanics of Simulation, Video 5: Physical Situation'
 uid: f1a8b882-fe91-4d0c-b791-eba33d8d8f1c
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1q1rqWLNObOKFOMULCEbyYL97dJRnuZJS_transcript.webvtt
@@ -19,7 +20,16 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1q1rqWLNObOKFOMULCEbyYL97dJRnuZJS_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: Antamina, copper mine, mine plan, uncertainties, Price, Ore quality
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nThis video introduces the physical situation of the Antamina Copper mine project\
+    \ in the Andes.\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
+    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
+    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: JDmNvQj0I5A
 ---
+This video introduces the physical situation of the Antamina Copper mine project in the Andes.
