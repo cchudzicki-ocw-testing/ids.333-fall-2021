@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 9 Value of Info Video 3.mp4
+title: 'Unit 9: Value of Information 3, Video 3: Expected Value of Sample Information'
 uid: 90bfb762-12bb-46ef-a562-9fb24b60f58a
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1-oOSVfO8iRYQ4m-fO3pJ0WViPcW1-l6a_transcript.webvtt
@@ -19,7 +20,19 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1-oOSVfO8iRYQ4m-fO3pJ0WViPcW1-l6a_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: Bayes' Theorem, expected value, prior probability, posterior probability,
+    conditional probability
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nThis video outlines the process valuing information for a particular test. \
+    \ It demonstrates the complexity of process and the difficulty of obtaining the\
+    \ needed data. It motivates the practical approach in next video.\n\nLicense:\
+    \ Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore\
+    \ courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\n\
+    We encourage constructive comments and discussion on OCW\u2019s YouTube and other\
+    \ social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: x2Y9IdbVd9g
 ---
+This video outlines the process valuing information for a particular test.  It demonstrates the complexity of process and the difficulty of obtaining the needed data. It motivates the practical approach in next video.
