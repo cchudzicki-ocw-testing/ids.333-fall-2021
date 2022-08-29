@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 11 LNG Case Video 3.mp4
+title: 'Unit 11: LNG Case 2, Video 3: Initial Analysis'
 uid: ed3cf3e4-8fa0-4be1-9087-6a0a6ab800f8
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1USdH8vqHHqQnaT2dToU-MSI6KaBquBaw_transcript.webvtt
@@ -19,7 +20,19 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1USdH8vqHHqQnaT2dToU-MSI6KaBquBaw_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: Uncertainty, economies of scale, discount rate, flexible design, capacity
+    constraints
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nVideo demonstrates the overall advantage of modular flexible designs over range\
+    \ of economies of scale. Smaller initial design preferable since capacity constraints\
+    \ limit upside potential.\n\nLicense: Creative Commons BY-NC-SA\nMore information\
+    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments."
   youtube_id: itWklzE8MP0
 ---
+Video demonstrates the overall advantage of modular flexible designs over range of economies of scale. Smaller initial design preferable since capacity constraints limit upside potential.
