@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 4 Garage Case Video 4.mp4
+title: 'Unit 4: Garage Case Analysis 2 , Video 4: Adding Flexibility'
 uid: f3c4ac07-e3c9-4848-bbae-7f1622d313d0
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1FeeQkfDO1C5J3UobjCLB_kbkI5NOD__6_transcript.webvtt
@@ -19,7 +20,19 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1FeeQkfDO1C5J3UobjCLB_kbkI5NOD__6_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: forecast, project management, Garage Case, flexibility, simulation,
+    Excel
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nThis video shows how Flexibility can reduce downside performance (e.g. by committing\
+    \ less at start) and take advantage of favorable situations (by being able to\
+    \ add capacity of functions or both).\n\nLicense: Creative Commons BY-NC-SA\n\
+    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: SPDZbn6QC4c
 ---
+This video shows how Flexibility can reduce downside performance (e.g. by committing less at start) and take advantage of favorable situations (by being able to add capacity of functions or both).
