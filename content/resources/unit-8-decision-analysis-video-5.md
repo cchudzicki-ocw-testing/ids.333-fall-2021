@@ -20,7 +20,8 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/16F29IefQg_dbTC7I3PsC1DheQFwNREl6_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: decision analysis, flexibility analysis, decision trees, update, probability,
+    outcomes
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
     \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
