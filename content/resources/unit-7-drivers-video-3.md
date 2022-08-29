@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 7 Drivers Video 3.mp4
+title: 'Unit 7: Drivers of Flexibility, Video 3:  Discount rate and Learning Promote'
 uid: 5b9861fe-1079-4d43-9fc5-3258ddfc9b88
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/15jx6NijV8RvsfueyXAU6rVU7JduJAT-8_transcript.webvtt
@@ -19,7 +20,18 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/15jx6NijV8RvsfueyXAU6rVU7JduJAT-8_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: Discount rate, future costs cheaper, Learning modules, design improvements
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nDiscount rate lowers present cost of later investments. This makes smaller,\
+    \ modular facilities cheaper than large initial investments.  Learning from improved\
+    \ design and repetition, similarly counteracts the value of economies of scale.\n\
+    \nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
+    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
+    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 12K3PlcicZE
 ---
+Discount rate lowers present cost of later investments. This makes smaller, modular facilities cheaper than large initial investments.  Learning from improved design and repetition, similarly counteracts the value of economies of scale.
