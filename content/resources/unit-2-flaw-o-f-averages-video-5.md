@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 2 Flaw o f Averages Video 5.mp4
+title: 'Unit 2: The Forecast is Always wrong, Video 5: Flaw of Averages 1-the Concept'
 uid: 2f7f18e5-688a-4aac-a60b-066a314a3c07
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1LD_Ep2eavT2ag940kt-bU7PSLENAIaRu_transcript.webvtt
@@ -19,7 +20,18 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1LD_Ep2eavT2ag940kt-bU7PSLENAIaRu_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: forecast, project management, flaw of averages
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nThis discussion defines the concept of the Flaw of Averages, the mathematically\
+    \ false assumption that if we use average values of inputs into the system, we\
+    \ will obtain the average value of the system performance. \n\nLicense: Creative\
+    \ Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses\
+    \ at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage\
+    \ constructive comments and discussion on OCW\u2019s YouTube and other social\
+    \ media channels. Personal attacks, hate speech, trolling, and inappropriate comments\
+    \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: nSPZP92vWsE
 ---
+This discussion defines the concept of the Flaw of Averages, the mathematically false assumption that if we use average values of inputs into the system, we will obtain the average value of the system performance.
