@@ -8,10 +8,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 10 Utility Video 5.mp4
+title: 'Unit 10: Utility Analysis and Multidimensional Evaluation 5, Video 5: There''s
+  No Valid Group Utility'
 uid: d8a05390-39f3-4077-bb15-c6ef9b24213b
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1qraf4Ow3R6BfQeYln37BBniO_qrOtVwx_transcript.webvtt
@@ -19,7 +21,18 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1qraf4Ow3R6BfQeYln37BBniO_qrOtVwx_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: Intransitivity of Group preferences, Impossibility of Group Utility,
+    Demonstration
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nA Simple example demonstrates the potential intransitivity of group preferences\
+    \ and consequently the impossibility of meaningful group utility functions.\n\n\
+    License: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
+    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
+    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 93-dFNci-2A
 ---
+A Simple example demonstrates the potential intransitivity of group preferences and consequently the impossibility of meaningful group utility functions.
