@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 2 Forcast -Wrong- Video 2.mp4
+title: "Unit 2: The Forecast is \u2018Always\u2019 wrong, Video 2: Demand Forecasts"
 uid: 907c7cb7-1f11-4a64-9274-47e96996de92
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1k-xYk3_0LN3C1H7tT9v8oUCKrsITUUjF_transcript.webvtt
@@ -19,7 +20,18 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1k-xYk3_0LN3C1H7tT9v8oUCKrsITUUjF_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: forecast, Uncertainty  project management, demand, oil, wind energy,
+    water demand
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nThis second part of why forecast is always  wrong extends the discussion to\
+    \ examples concerning demand forecasts.\n\nLicense: Creative Commons BY-NC-SA\n\
+    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: pjBsOFUNN34
 ---
+This second part of why forecast is always  wrong extends the discussion to examples concerning demand forecasts.
