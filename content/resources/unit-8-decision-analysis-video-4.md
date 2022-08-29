@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 8 Decision Analysis Video 4.mp4
+title: 'Unit 8: Decision Analysis 4, Video 4: Multistage Analysis'
 uid: 0c3c4a19-d1aa-4016-94f3-508a5b77f85d
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1ibc2A34BP_PnQ2h-iOsPNe2Vjc9Ftg6L_transcript.webvtt
@@ -19,7 +20,19 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1ibc2A34BP_PnQ2h-iOsPNe2Vjc9Ftg6L_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: decision analysis, chance nodes, decision nodes, probability, updates,
+    outcomes, stages
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nThis video extends the analysis to several stages of choices, and illustrates\
+    \ how the analysis needs to revise probabilities depending on future observations\
+    \ of what actually happens.\n\nLicense: Creative Commons BY-NC-SA\nMore information\
+    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments."
   youtube_id: zOqIHFqeRyI
 ---
+This video extends the analysis to several stages of choices, and illustrates how the analysis needs to revise probabilities depending on future observations of what actually happens.
