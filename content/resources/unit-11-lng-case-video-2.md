@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Unit 11 LNG Case Video 2.mp4
+title: 'Unit 11: LNG Case 1, Video 2: Introduction'
 uid: 1db4f5d6-810f-4470-a8f7-596158c89f3f
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1FlS_pEWtM4mjh-XGzsHrbQvt-iF98UAz_transcript.webvtt
@@ -19,7 +20,17 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1FlS_pEWtM4mjh-XGzsHrbQvt-iF98UAz_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: case study, LNG, modularity, Optimal size, economies of scale, discount
+    rate, learning
+  youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
+    \nThe video presents the essential elements of the LNG case study that illustrates\
+    \ practical approach and results of applying flexibility analysis to engineering\
+    \ systems\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
+    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
+    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 7UNiSHGyg1Q
 ---
