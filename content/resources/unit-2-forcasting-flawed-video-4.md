@@ -23,7 +23,7 @@ video_metadata:
   video_speakers: ''
   video_tags: project management, forecasting process, inherent bias, game changers
   youtube_description: "\"MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ run the forecasts 'off the road''\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ run the forecasts 'off the road''\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nCommon forecasting processes in great part project past trends into the future.\
     \ This approach inherently fails to deal with the inevitable political, economic,\
