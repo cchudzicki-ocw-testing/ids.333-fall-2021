@@ -24,7 +24,7 @@ video_metadata:
   video_tags: project robustness, expected value, target curves comparative tables,
     Capex, standard deviation
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nRobust decisions minimize standard deviation, neglecting maximization of superior\
     \ system performance. Overall, Target curves and comparative tables may best present\
