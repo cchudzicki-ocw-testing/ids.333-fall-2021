@@ -23,7 +23,7 @@ video_metadata:
   video_tags: project management, Garage Case, system design, flexibility, win-win
     solution, Excel
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nThis video explains in more detail how flexible designs produce their benefits.\n\
     \nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
