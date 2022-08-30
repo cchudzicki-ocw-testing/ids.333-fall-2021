@@ -24,7 +24,7 @@ video_metadata:
   video_tags: uncertainty, economies of scale, discount rate, learning, competitive
     gaming, flexibility drivers
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nDiscusses the 5 main drivers for and against the adoption of flexibility in\
     \ design.  The most important is the existence of uncertainty. Not knowing what\
