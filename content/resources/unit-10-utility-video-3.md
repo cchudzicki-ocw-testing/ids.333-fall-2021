@@ -23,7 +23,7 @@ video_metadata:
   video_speakers: ''
   video_tags: value function, utility analysis, monotonicity, transitivity, axiom
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ Richard de Neufville\nhttps://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nThis presents the logical conditions needed to justify an objective value function.\
     \  This provides the basis for the important conclusion that there is no valid\
