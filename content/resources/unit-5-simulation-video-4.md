@@ -23,7 +23,7 @@ video_metadata:
   video_tags: simulation models, value of flexibility, target curve, Excel, decision
     rules, IF statements
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nThe video shows how to simulate management responses to future events using\
     \ 'decision rules' in the Excel model that will mimic their decisions to exercise\
