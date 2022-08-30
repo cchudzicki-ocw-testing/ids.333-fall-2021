@@ -22,7 +22,7 @@ video_metadata:
   video_speakers: ''
   video_tags: case study, modular design, learning rates, economies of scale, flexibility
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nCase shows flexible design built around modules provides more value, driven\
     \ by discount rate and learning that counteract economies of scale.  Results in\
