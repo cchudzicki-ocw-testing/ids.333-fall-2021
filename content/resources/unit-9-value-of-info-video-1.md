@@ -22,7 +22,7 @@ video_metadata:
   video_speakers: ''
   video_tags: Information value, test, revision of prior estimates. Information collection
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nNew information has value because it allows us to learn about the probability\
     \ of future outcomes.  A test in this context is any process to collect information:\
