@@ -22,7 +22,7 @@ video_metadata:
   video_speakers: ''
   video_tags: forecast, project management, flaw of averages
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
-    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/IDS-333F21\n\
+    \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nThe discussion leads to the simple fact that, to get value the performance of\
     \ a system correctly, it is necessary to work with the distributions of the inputs.\
