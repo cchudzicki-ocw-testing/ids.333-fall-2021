@@ -31,6 +31,10 @@ leftnav:
   name: Student Projects
   url: /pages/student-projects
   weight: 80
+- identifier: 2e248694-f79c-4597-8e3a-5efd15bede1f
+  name: Videos
+  url: /video_galleries/videos
+  weight: 90
 - identifier: 11bb4ef9-6cf9-4bac-bb0b-00208a4b5236
   name: Unit 2
   parent: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
