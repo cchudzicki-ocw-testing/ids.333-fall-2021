@@ -11,6 +11,12 @@ videos:
   - d8c8d28b-b6a8-47f7-a3d6-658082db44f0
   - 2f7f18e5-688a-4aac-a60b-066a314a3c07
   - d1e22ff9-5be2-4304-ad77-8fd6e4bd6dde
+  - 090931a4-3e2e-4435-aa4b-e9e5fa20f54f
+  - dad22282-8125-4cb1-a42a-4c4c37007e85
+  - 91238fb2-03a7-4d64-81fa-927cf598740b
+  - f3c4ac07-e3c9-4848-bbae-7f1622d313d0
+  - 58483138-e3ea-419e-bd38-8e94d2d12834
+  - c90ca8e1-3f00-4990-94ea-f7f9702ab819
   website: risk-and-decision-analysis
 ---
-The following videos serve as pre-class assignments in each unit (not available for Unit 1).
+The following videos serve as pre-class assignments in each unit (no videos for units 1, 3, and 6).
