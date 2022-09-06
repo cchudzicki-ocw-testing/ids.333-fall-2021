@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page presents insights into how the class was taught.
 draft: true
 title: Instructor Insights
 uid: 06372928-dc6b-4f78-9b44-8a0ff80e2c9f
@@ -88,11 +89,11 @@ Over 90 % of the students had engineering or science degrees, and most had 5 to 
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-#### In Class (3 hours)
+### In Class (3 hours)
 
 - Met 2 times per week for 1.5 hour per session; 13 sessions total; mandatory attendance
 - Class sessions were devoted to faculty-led discussion responding to student reactions to the assigned course material.
 
-#### Out of Class (9 hours)
+### Out of Class (9 hours)
 
 On their own time, students studied the course materials posted online and submitted responses to the instructors via online forms. They also spent time completing three homework assignments and preparing for the final quiz.
