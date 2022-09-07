@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 4: Garage Case, Video 1: Introduction'
+title: 'Unit 4: Parking Garage Case Example, Video 1: Introduction'
 uid: 090931a4-3e2e-4435-aa4b-e9e5fa20f54f
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1dr1wpd-Ou_67Av0UENvpzrEJhPLWrDzw_transcript.webvtt
