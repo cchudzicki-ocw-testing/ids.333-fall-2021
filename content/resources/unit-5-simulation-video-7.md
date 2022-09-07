@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 5: Mechanics of Simulation, Video 7: Value of Flex in Project'
+title: 'Unit 5: Mechanics of Simulation, Video 7: Value of Flex "in" Project'
 uid: b2104560-7bbd-413f-9dcb-5d59163146ac
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1QC0RSnSJvabIlVd7FqozjKAySYsoV5cO_transcript.webvtt
