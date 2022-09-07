@@ -12,11 +12,9 @@ This unit considers two aspects of Decision Analysis. First, its mechanics, rep
 
 It is useful to understand these aspects of the decision analysis paradigm because they provide insight into some fundamental concepts, such as:
 
-1)  "Second-best" choice is often best in fact -- that is, strategies that perform well over many possible scenarios are very often better than plans or designs that are optimal for any specific scenario;
-
-2)  As we manage a system over time, it is important to revise estimates of uncertainties -- and adjust plans accordingly; and
-
-3) New information can have great value, in terms of improving plans and designs, and managers should actively consider the value of obtaining more information before making absolute commitments to particular policies.
+1. "Second-best" choice is often best in fact -- that is, strategies that perform well over many possible scenarios are very often better than plans or designs that are optimal for any specific scenario;
+2. As we manage a system over time, it is important to revise estimates of uncertainties -- and adjust plans accordingly; and
+3. New information can have great value, in terms of improving plans and designs, and managers should actively consider the value of obtaining more information before making absolute commitments to particular policies.
 
 Decision analytic became popular in the 1970s and 80s and for a while was widely taught in Business Schools. Since then, however, Decision analysis is no longer taught intensively or widely, mostly because decision analysis is impractical for detailed practice and invites inappropriate and arbitrary selections of parameters. That said, a number of consulting practices and companies endorse the use decision analysis to some degree and various commercial programs deliver the framework for its practice.
 
