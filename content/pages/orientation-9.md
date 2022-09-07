@@ -18,8 +18,6 @@ This week closes the "Risk and Decision Analysis" 6-week segment by exploring th
 
 The main take-aways are: 
 
-(1) Economic criteria each have their inherent biases and deficiencies; 
-
-(2) the Concept of Utility is subtle and often completely misapplied as some kind of magic; so that 
-
-(3) We often should properly do a multi-dimensional analysis that clearly presents tradeoffs for system designers and manager to consider.
+1. Economic criteria each have their inherent biases and deficiencies; 
+2. the Concept of Utility is subtle and often completely misapplied as some kind of magic; so that
+3. We often should properly do a multi-dimensional analysis that clearly presents tradeoffs for system designers and manager to consider.
