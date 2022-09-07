@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 4: Garage Case, Video 5: Design to Manage Uncertainties'
+title: 'Unit 4: Parking Garage Case Example, Video 5: Design to Manage Uncertainties'
 uid: 58483138-e3ea-419e-bd38-8e94d2d12834
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1BcqzG9t2niPHX2CmqTzVZyTBiPOVCTgz_transcript.webvtt
