@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 4: Garage Case Analysis 2 , Video 4: Adding Flexibility'
+title: 'Unit 4: Parking Garage Case Example, Video 4: Adding Flexibility'
 uid: f3c4ac07-e3c9-4848-bbae-7f1622d313d0
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1FeeQkfDO1C5J3UobjCLB_kbkI5NOD__6_transcript.webvtt
