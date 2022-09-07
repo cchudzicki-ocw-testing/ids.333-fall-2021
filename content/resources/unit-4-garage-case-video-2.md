@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 4: Garage Case, Video 2: Logic of Analysis'
+title: 'Unit 4: Parking Garage Case Example, Video 2: Logic of Analysis'
 uid: dad22282-8125-4cb1-a42a-4c4c37007e85
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1JptJDJJvL4l0MdHdHG53qsu8Adn6SnXH_transcript.webvtt
