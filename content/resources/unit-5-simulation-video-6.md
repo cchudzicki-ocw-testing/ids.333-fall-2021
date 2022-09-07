@@ -13,7 +13,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Unit 5: Mechanics of Simulation, Video 6: Simulation and Value Flexibility
-  on Project'
+  "on" Project'
 uid: ea2fcbf5-a5bd-4b79-9db9-a9f802240892
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1iTGQR45-gfMqSbuR0CneGB__GSC_xh_d_transcript.webvtt
