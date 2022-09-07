@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 4: Garage Case Analysis 1, Video 3: Recognizing Uncertainty, Simulation'
+title: 'Unit 4: Parking Garage Case Example, Video 3: Recognizing Uncertainty, Simulation'
 uid: 91238fb2-03a7-4d64-81fa-927cf598740b
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1hhccufQQElMvaTpskZrrXaNFox4EXS7V_transcript.webvtt
