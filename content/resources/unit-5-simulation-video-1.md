@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 5: Mechanics of Simulation, Video 1: Concept-What Is Needed'
+title: "Unit 5: Mechanics of Simulation, Video 1: Concept\u2014What Is Needed"
 uid: e89c2bb4-919a-4bad-9a78-c1b6ce41390b
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1H8us_DJw0TmzQLRtkdTavXX2f0_xP_dz_transcript.webvtt
