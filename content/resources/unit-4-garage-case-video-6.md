@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 4: Garage Case Take-aways, Video 6: Flexibility is Win-Win'
+title: 'Unit 4: Parking Garage Case Example, Video 6: Flexibility is Win-Win'
 uid: c90ca8e1-3f00-4990-94ea-f7f9702ab819
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1sd5AruODhQ3vOslrIqWj5lYoZp78K1_n_transcript.webvtt
