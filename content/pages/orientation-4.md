@@ -14,10 +14,8 @@ Think of this case as a teaching tool. It deliberately simplifies the uncertaint
 
 Focus your attention on the 3 points the case emphasizes:
 
-(1) The deterministic analysis is likely to give the wrong answer -- to get correct evaluation consider the distribution of possibilities;
-
-(2) We can easily explore the risks and opportunities associated with uncertainties; and
-
-(3) Flexible plans and strategies can provide win-win strategies -- by reducing potential losses and increasing possible gains.
+1. The deterministic analysis is likely to give the wrong answer -- to get correct evaluation consider the distribution of possibilities;
+2. We can easily explore the risks and opportunities associated with uncertainties; and
+3. Flexible plans and strategies can provide win-win strategies -- by reducing potential losses and increasing possible gains.
 
 The case was inspired by the design of a major parking garage in the UK.  Also, the question of flexibility in the design of garages is gaining traction due to uncertainties about how people might shift ride services or daily rentals, instead of owning cars. Should developers of apartment buildings design garages so that these spaces can easily be converted to other uses?
