@@ -36,7 +36,10 @@
   "learning_resource_types": [
     "Lecture Notes",
     "Video Materials",
-    "Projects"
+    "Instructor Insights",
+    "Projects with Examples",
+    "Media Assignments",
+    "Exams with Solutions"
   ],
   "site_uid": "1ee799c3-154f-4a5c-bfae-60ab54ec189a"
 }
