@@ -16,7 +16,7 @@ None
 
 ## Course Concept
 
-It addresses a fundamental issue in System Design and Management: The need for engineering leaders to recognize uncertainty in the performance of their plans or designs. How should we analyze and cope with risks in demand, requirements, cost, technology, etc.?  
+This course addresses a fundamental issue in system design and management: the need for engineering leaders to recognize uncertainty in the performance of their plans or designs. How should we analyze and cope with risks in demand, requirements, cost, technology, etc.?  
 
 This course presents Discounted Cash Flow (DCF) Excel models, simulation, and decision analysis as primary ways to analyze possible outcomes of design and management strategies.             
 
