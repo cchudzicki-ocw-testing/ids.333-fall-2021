@@ -12,8 +12,8 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 7: Drivers of Flexibility, Video 1: Five Main Drivers-Uncertainty is
-  Most Important'
+title: "Unit 7: Drivers of Flexibility, Video 1: Five Main Drivers\u2014Uncertainty\
+  \ is Most Important"
 uid: d85af5f0-a568-4211-8a4c-801a4e576046
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1WIJFQ8d7E5zWa55GUvpWARCYMFkfZwd2_transcript.webvtt
