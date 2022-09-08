@@ -10,7 +10,7 @@ This course was taught at MIT as a half-term course. Learners can choose a learn
 
 \[FD\] = de Neufville, R. and S. Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230.
 
-\[ASA\] = de Neufville, R. *Applied Systems Analysis: Engineering Planning and Technology Management.* McGraw-Hill, 1990. ISBN: 0070163723 ([PDF](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)).
+\[ASA\] = de Neufville, R. [*Applied Systems Analysis: Engineering Planning and Technology Management*](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 0070163723.
 
 \[XL\] = "Excel Boot Camp” material
 
