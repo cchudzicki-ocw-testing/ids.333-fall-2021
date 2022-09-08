@@ -18,6 +18,6 @@ It is useful to understand these aspects of the decision analysis paradigm becau
 
 Decision analytic became popular in the 1970s and 80s and for a while was widely taught in Business Schools. Since then, however, Decision analysis is no longer taught intensively or widely, mostly because decision analysis is impractical for detailed practice and invites inappropriate and arbitrary selections of parameters. That said, a number of consulting practices and companies endorse the use decision analysis to some degree and various commercial programs deliver the framework for its practice.
 
-{{% resource_link "d00ee76c-e3a2-47de-b259-75a67dc7c24d" "Homework: Decision Analysis and EVPI" %}}
+{{% resource_link "79d36e26-7702-46b6-a979-598dcc39ffd8" "Homework: Decision Analysis and EVPI (PDF)" %}}
 
-{{% resource_link "0afb4ce4-09cd-496c-9294-def7e4b9cf87" "Homework: Decision Analysis and EVPI (solution)" %}}
+{{% resource_link "1ca2383c-712c-4e30-b4cb-9386dd4baf10" "Homework: Decision Analysis and EVPI solution (PDF)" %}}
