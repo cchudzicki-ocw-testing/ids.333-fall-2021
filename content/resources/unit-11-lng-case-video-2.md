@@ -34,3 +34,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 7UNiSHGyg1Q
 ---
+The video presents the essential elements of the LNG case study that illustrates practical approach and results of applying flexibility analysis to engineering systems.
