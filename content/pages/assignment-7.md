@@ -14,9 +14,9 @@ How much one should do to prepare depends on the possible costs and consequences
 
 In this context, there are several forces that encourage and discourage flexibility -- and we should understand them.
 
-The major impetus for flexibility is Uncertainty: the less we know about what will happen, the more we should have the capability, the flexibility to deal with the range of future events.
+The major impetus for flexibility is uncertainty: the less we know about what will happen, the more we should have the capability, the flexibility to deal with the range of future events.
 
-Economies of Scale provide the principal economic argument against deferring investments in capacity: "If it's cheaper per unit of capacity to build Big, why mess around with smaller units" is the standard argument.  However, that's not the whole story.
+Economies of scale provide the principal economic argument against deferring investments in capacity: "If it's cheaper per unit of capacity to build big, why mess around with smaller units" is the standard argument.  However, that's not the whole story.
 
 Against the economies of scale argument are the "time value of money." It decreases the true economic cost of future investments and counteracts the cost advantages associated with economies of scale.
 
