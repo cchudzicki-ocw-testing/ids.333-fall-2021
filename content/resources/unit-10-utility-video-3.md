@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 10: Utility Analysis and Multidimensional Evaluation 3, Video 3: Conditions
+title: 'Unit 10: Utility Analysis and Multidimensional Evaluation, Video 3: Conditions
   for Value Function'
 uid: bdda5a4f-a554-41fc-9c0b-094cdd81628a
 video_files:
@@ -35,4 +35,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 0CIdzHHvUjQ
 ---
-This presents the logical conditions needed to justify an objective value function.  This provides the basis for the important conclusion that there is no valid group utility for system performance.
+This presents the logical conditions needed to justify an objective value function. This provides the basis for the important conclusion that there is no valid group utility for system performance.
