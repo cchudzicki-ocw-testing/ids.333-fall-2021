@@ -1,6 +1,6 @@
 ---
 content_type: video_gallery
-draft: true
+draft: false
 title: Videos
 uid: 2e248694-f79c-4597-8e3a-5efd15bede1f
 videos:
