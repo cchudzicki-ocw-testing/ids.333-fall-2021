@@ -34,4 +34,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: OMdmcfA1MDU
 ---
-The discussion leads to the simple fact that, to get value the performance of a system correctly, it is necessary to work with the distributions of the inputs.  In short, it is essential to simulate system performances (as by using Monte Carlo analysis.
+The discussion leads to the simple fact that, to get value the performance of a system correctly, it is necessary to work with the distributions of the inputs. In short, it is essential to simulate system performances (as by using Monte Carlo analysis.)
