@@ -34,4 +34,4 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: Ju2WGx363_Q
 ---
-This is the first part of the discussion of why we must expect that forecasts are 'always' wrong. It presents a series of examples of historical cost estimates to illustrate the point.
+This is the first part of the discussion of why we must expect that forecasts are "always" wrong. It presents a series of examples of historical cost estimates to illustrate the point.
