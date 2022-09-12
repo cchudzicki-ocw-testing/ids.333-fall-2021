@@ -14,11 +14,11 @@ Session 1 Risk and Decision Analysis; Engineering Systems Analysis for Design (P
 
 **Unit 2:  Forecast Is "Always" Wrong**
 
-Session 2 The Forecast Is "Always" Wrong (PDF)
+{{% resource_link "828f34bd-f507-4886-a753-ada94de88d73" "Session 2 The Forecast Is \"Always\" Wrong (PDF)" %}}
 
 **Unit 3: Discounted Cash Flow (DCF)**
 
-Session 3 DCF Analysis Introduction and DCF Mechanics (PDF)
+{{% resource_link "a309ae05-1034-453d-aef6-ed8831d84bc2" "Session 3 DCF Analysis Introduction and DCF Mechanics (PDF)" %}}
 
 **Unit 4: Garage Case**
 
@@ -26,7 +26,7 @@ Session 3 DCF Analysis Introduction and DCF Mechanics (PDF)
 
 **Unit 5: Simulation Mechanics**
 
-Session 5 Mechanics of Simulation (PDF)
+{{% resource_link "df0362ea-2bb1-4cd3-a342-a47f6b611e7f" "Session 5 Mechanics of Simulation (PDF)" %}}
 
 **Unit 6: Excel Template Recitation**
 
@@ -34,15 +34,15 @@ Session 6 Excel Template Recitation (not available)
 
 **Unit 7: Drivers of Flexibility**
 
-Session 7 Drivers of Flexibility (PDF)
+{{% resource_link "71207fc8-e60b-4e22-a04d-ea22fba0411c" "Session 7 Drivers of Flexibility (PDF)" %}}
 
 **Unit 8: Decision Analysis**
 
-Session 8 Decision Analysis (PDF)
+{{% resource_link "aa50b002-08a6-47e1-b294-f2819f12c829" "Session 8 Decision Analysis (PDF)" %}}
 
 **Unit 9: Value of Information** 
 
-Session 9 Information Gathering as a Strategy (PDF)
+{{% resource_link "320bbd0f-8ed5-4b4a-bf01-0fdbddaba733" "Session 9 Information Gathering as a Strategy (PDF)" %}}
 
 **Unit 10: Utility Analysis and Multidimensional Evaluation**
 
