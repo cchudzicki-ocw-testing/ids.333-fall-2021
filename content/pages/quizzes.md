@@ -28,7 +28,7 @@ Note that longer answers are not inherently better!  About 10 sentences should 
 
 ## Current Quiz Format
 
-{{% resource_link "db790dd2-1c97-451e-ad93-2ebadc3d025f" "2022 Quiz (PDF)" %}}
+{{% resource_link "63bea8ae-97a8-434b-a0a5-d72f8144a884" "2022 Quiz (PDF)" %}}
 
 ## Practice Quizzes
 
