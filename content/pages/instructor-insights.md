@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: This page presents insights into how the class was taught.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 06372928-dc6b-4f78-9b44-8a0ff80e2c9f
 ---
