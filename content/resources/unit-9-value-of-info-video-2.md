@@ -34,4 +34,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: RhMdeFIw1rM
 ---
-The value of a test, as of any action in world of uncertainty, is an expected value. It is the positive   value the new information provides decision-makers by enabling them to make a better choice.
+The value of a test, as of any action in world of uncertainty, is an expected value. It is the positive value the new information provides decision-makers by enabling them to make a better choice.
