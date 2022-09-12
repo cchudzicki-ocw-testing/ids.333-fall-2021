@@ -47,11 +47,11 @@ Course grades will be a weighted average of the following elements:
 
 ## Text
 
-de Neufville, R. and S. Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with [Google Book](https://www.google.com/books/edition/Flexibility_in_Engineering_Design/pKjnnqilr3EC?hl=en&gbpv=1)\]
+R. de Neufville and S. Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with [Google Book](https://www.google.com/books/edition/Flexibility_in_Engineering_Design/pKjnnqilr3EC?hl=en&gbpv=1)\]
 
 ## Reading List
 
-de Neufville, R. [*Applied Systems Analysis: Engineering Planning and Technology Management*](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 0070163723.
+R. de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management*](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 0070163723.
 
 Excel and [@Risk](https://github.com/Risk) boot camp [material](https://web.mit.edu/ardent/www/ROcse_Excel_latest/Excel_Class.html)
 
