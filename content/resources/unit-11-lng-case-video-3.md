@@ -35,4 +35,4 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: itWklzE8MP0
 ---
-Video demonstrates the overall advantage of modular flexible designs over range of economies of scale. Smaller initial design preferable since capacity constraints limit upside potential.
+This video demonstrates the overall advantage of modular flexible designs over range of economies of scale. Smaller initial design is preferable since capacity constraints limit upside potential.
