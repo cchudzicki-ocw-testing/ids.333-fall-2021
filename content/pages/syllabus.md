@@ -47,19 +47,19 @@ Course grades will be a weighted average of the following elements:
 
 ## Text
 
-R. de Neufville and S. Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with [Google Book](https://www.google.com/books/edition/Flexibility_in_Engineering_Design/pKjnnqilr3EC?hl=en&gbpv=1)\]
+Richard de Neufville and Stefan Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with [Google Book](https://www.google.com/books/edition/Flexibility_in_Engineering_Design/pKjnnqilr3EC?hl=en&gbpv=1)\]
 
 ## Reading List
 
-R. de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management*](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 9780070163720.
+Richard de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management*](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 9780070163720.
 
 Excel and [@Risk](https://github.com/Risk) boot camp [material](https://web.mit.edu/ardent/www/ROcse_Excel_latest/Excel_Class.html)
 
 ## Related References
 
-D. Geltner and R. de Neufville, *Flexibility and Real Estate Valuation under Uncertainty: A Practical Guide for Developers.* Wiley-Blackwell, 2018. ISBN: 9781119106487.
+David Geltner and Richard de Neufville, *Flexibility and Real Estate Valuation under Uncertainty: A Practical Guide for Developers.* Wiley-Blackwell, 2018. ISBN: 9781119106487.
 
-V. Marchau, W. Walker, and P. Bloemen, eds., “Engineering Options Analysis,” and “Engineering Options Analysis - Applications,” Chapters 6 and 11, in *Decision Making under Deep Uncertainty: from Theory to Practice.* Springer, 2019. ISBN: 9783030052522.
+Vincent A. W. J. Marchau, Warren E. Walker, Pieter J. T. M. Bloemen, and Steven W. Popper, eds., “Engineering Options Analysis,” and “Engineering Options Analysis - Applications,” Chapters 6 and 11, in *Decision Making under Deep Uncertainty: from Theory to Practice.* Springer, 2019. ISBN: 9783030052522.
 
 ## Software students should have
 
