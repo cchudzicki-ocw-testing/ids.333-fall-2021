@@ -34,4 +34,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: pjBsOFUNN34
 ---
-This second part of why forecast is always  wrong extends the discussion to examples concerning demand forecasts.
+This second part of "why forecast is 'always' wrong" extends the discussion to examples concerning demand forecasts.
