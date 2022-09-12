@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 10: Utility Analysis and Multidimensional Evaluation 4, Video 4: Consequences'
+title: 'Unit 10: Utility Analysis and Multidimensional Evaluation, Video 4: Consequences'
 uid: 6cd9ce0d-a2af-423c-b2f7-b6d4be25457f
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1hVlpRf8_-mLXxxzNYZk39vbH4wbBdNlJ_transcript.webvtt
