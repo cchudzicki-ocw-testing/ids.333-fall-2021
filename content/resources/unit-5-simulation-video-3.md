@@ -34,4 +34,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: bEF_PpP6eCM
 ---
-Simulation produces a distribution of possible outcomes. This is conveniently shown as a Cumulative distribution Target Curve.
+Simulation produces a distribution of possible outcomes. This is conveniently shown as a cumulative distribution target curve.
