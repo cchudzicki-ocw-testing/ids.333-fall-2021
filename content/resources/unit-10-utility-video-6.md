@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 10: Utility Analysis and Multidimensional Evaluation 6, Video 6: Dominated
+title: 'Unit 10: Utility Analysis and Multidimensional Evaluation, Video 6: Dominated
   Solutions'
 uid: 19c286b2-dff4-48da-b0f2-6ce247447165
 video_files:
