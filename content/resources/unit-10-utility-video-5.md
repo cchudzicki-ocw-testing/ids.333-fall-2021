@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 10: Utility Analysis and Multidimensional Evaluation 5, Video 5: There''s
+title: 'Unit 10: Utility Analysis and Multidimensional Evaluation, Video 5: There''s
   No Valid Group Utility'
 uid: d8a05390-39f3-4077-bb15-c6ef9b24213b
 video_files:
@@ -35,4 +35,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 93-dFNci-2A
 ---
-A Simple example demonstrates the potential intransitivity of group preferences and consequently the impossibility of meaningful group utility functions.
+A simple example demonstrates the potential intransitivity of group preferences and consequently the impossibility of meaningful group utility functions.
