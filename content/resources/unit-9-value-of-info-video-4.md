@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 9: Value of Information 4, Video 4: Expected Value of Perfect Information'
+title: 'Unit 9: Value of Information, Video 4: Expected Value of Perfect Information'
 uid: 3630744f-f3d3-4765-b17d-896b6f69ec2c
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1ZhKHjjGrnoTddhI8VR5H11fBaBHg5W1P_transcript.webvtt
