@@ -35,4 +35,4 @@ video_metadata:
     \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: razbxFM7cEQ
 ---
-The take-aways from the Garage are: (1) you need to deal with uncertainties to get correct answers in uncertain world, and (2) in this context Flexibility in Design offers the possibility of Win-Win solutions.
+The take-aways from the garage are: (1) you need to deal with uncertainties to get correct answers in uncertain world, and (2) in this context flexibility in design offers the possibility of win-win solutions.
