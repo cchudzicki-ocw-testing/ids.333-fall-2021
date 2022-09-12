@@ -36,4 +36,4 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: QdE66s-3BNw
 ---
-This video introduced the notion of porcupine graphs, that illustrate the common phenomenon that experts in various fields find it difficult to adjust their forecasts to what is actually happening, and thus can be consistently biased over long periods.
+This video introduces the notion of porcupine graphs, that illustrate the common phenomenon that experts in various fields find it difficult to adjust their forecasts to what is actually happening, and thus can be consistently biased over long periods.
