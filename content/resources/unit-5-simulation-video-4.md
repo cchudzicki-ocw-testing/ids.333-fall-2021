@@ -34,4 +34,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: XZQxhZT5MaE
 ---
-The video shows how to simulate management responses to future events using 'decision rules' in the Excel model that will mimic their decisions to exercise flexibility.
+The video shows how to simulate management responses to future events using "decision rules" in the Excel model that will mimic their decisions to exercise flexibility.
