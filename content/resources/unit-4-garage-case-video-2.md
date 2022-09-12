@@ -34,4 +34,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: M8kt-t6CKRI
 ---
-Shows the 3-step Flexibility calculations of system performance based on: (1) standard deterministic approach\\; (2) Recognizing uncertainties and simulating actual results\\; and (3) with Flexibility leading to improvements.
+Shows the 3-step flexibility calculations of system performance based on: (1) standard deterministic approach; (2) recognizing uncertainties and simulating actual results; and (3) with flexibility leading to improvements.
