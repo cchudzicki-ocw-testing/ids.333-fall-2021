@@ -47,11 +47,11 @@ Course grades will be a weighted average of the following elements:
 
 ## Text
 
-Richard de Neufville and Stefan Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with [Google Book](https://www.google.com/books/edition/Flexibility_in_Engineering_Design/pKjnnqilr3EC?hl=en&gbpv=1)\]
+Richard de Neufville and Stefan Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with [Google Books](https://www.google.com/books/edition/Flexibility_in_Engineering_Design/pKjnnqilr3EC?hl=en&gbpv=1)\]
 
 ## Reading List
 
-Richard de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management*](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 9780070163720.
+Richard de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management* (free download)](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 9780070163720.
 
 Excel and [@Risk](https://github.com/Risk) boot camp [material](https://web.mit.edu/ardent/www/ROcse_Excel_latest/Excel_Class.html)
 
@@ -61,8 +61,8 @@ David Geltner and Richard de Neufville, *Flexibility and Real Estate Valuation u
 
 Vincent A. W. J. Marchau, Warren E. Walker, Pieter J. T. M. Bloemen, and Steven W. Popper, eds., “Engineering Options Analysis,” and “Engineering Options Analysis - Applications,” Chapters 6 and 11, in *Decision Making under Deep Uncertainty: from Theory to Practice.* Springer, 2019. ISBN: 9783030052522.
 
-## Software students should have
+## Software Students Should Have
 
-We expect students to have an up-to-date version of Excel ®.
+We expect students to have an up-to-date version of Excel.
 
-You might also want to use [@Risk](https://github.com/Risk). This user-friendly product simplifies production and presentation of results. To obtain the software:  you can get the [15-day free trial version](http://www.palisade.com/trials.asp) or pay $75 for a [student version](http://www.palisade.com/cart/products_EN.asp?cat=51&panel=0).
+You might also want to use [@Risk](https://github.com/Risk). This user-friendly product simplifies production and presentation of results. To obtain the software, you can get the [15-day free trial version](http://www.palisade.com/trials.asp) or pay $75 for a [student version](http://www.palisade.com/cart/products_EN.asp?cat=51&panel=0).
