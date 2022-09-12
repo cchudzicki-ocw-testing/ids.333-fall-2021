@@ -12,7 +12,7 @@ All available lecture notes are provided below:
 
 {{% resource_link "0fd79037-5b0e-485f-ba3b-fb9d87e827b7" "Session 1: Risk and Decision Analysis; Engineering Systems Analysis for Design (PDF)" %}}
 
-**Unit 2:  Forecast Is "Always" Wrong**
+**Unit 2: Forecast Is "Always" Wrong**
 
 {{% resource_link "828f34bd-f507-4886-a753-ada94de88d73" "Session 2: The Forecast Is \"Always\" Wrong (PDF)" %}}
 
