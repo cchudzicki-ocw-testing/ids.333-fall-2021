@@ -34,4 +34,4 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: aY7d_-INloc
 ---
-This case illustrates the potential poor performance of large investments in the face of uncertainty. Potential economies of scale missed and risk of 'white elephant' projects.
+This case illustrates the potential poor performance of large investments in the face of uncertainty. Potential economies of scale missed and risk of "white elephant" projects.
