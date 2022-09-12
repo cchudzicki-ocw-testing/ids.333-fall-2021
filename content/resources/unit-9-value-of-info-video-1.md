@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 9: Value of Information 1, Video 1: Concept of Test'
+title: 'Unit 9: Value of Information, Video 1: Concept of Test'
 uid: b2e329bf-e8d6-4675-bc29-425de8f5e3c3
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1TU95aAZrajU_1dTyVY-2JtNtvmlWv1x7_transcript.webvtt
