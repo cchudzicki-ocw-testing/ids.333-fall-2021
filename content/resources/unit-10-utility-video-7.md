@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 10: Utility Analysis and Multidimensional Evaluation 7, Video 7: Robustness
+title: 'Unit 10: Utility Analysis and Multidimensional Evaluation, Video 7: Robustness
   and Take-aways'
 uid: 655bd3d0-0c81-451d-a7d0-00c7215756fb
 video_files:
@@ -36,4 +36,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: tXXRIwRBTTE
 ---
-Robust decisions minimize standard deviation, neglecting maximization of superior system performance. Overall, Target curves and comparative tables may best present valuation results to decision-makers.
+Robust decisions minimize standard deviation, neglecting maximization of superior system performance. Overall, target curves and comparative tables may best present valuation results to decision-makers.
