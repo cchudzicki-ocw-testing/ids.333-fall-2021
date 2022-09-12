@@ -35,4 +35,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: EKBX3PB7DYg
 ---
-This video discusses the analytic and managerial advantages of Decision Analysis as at way to present and learn about the consequences of different strategies for managing under uncertainty.
+This video discusses the analytic and managerial advantages of decision analysis as a way to present and learn about the consequences of different strategies for managing under uncertainty.
