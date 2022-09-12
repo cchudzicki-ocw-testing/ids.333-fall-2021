@@ -10,10 +10,10 @@ This sections provides recent aspirational examples of projects. Use them as ins
 
 Several of the student projects led to theses or conference presentations. They cover a representative range of topics: Aeronautics, Energy, Civil Engineering, and Manufacturing -- in that order.
 
-Student Project example 1 report ({{% resource_link "78338d76-c8e4-4554-a798-3b8069c20e95" "PDF" %}}  - 1.3MB) and presentation slides ({{% resource_link "88b395de-1622-4c6c-8102-ec0ec879e578" "PDF" %}} - 2.3MB)
+Student Project example 1 report ({{% resource_link "6899ac75-65eb-4df5-b84f-26327ad8af68" "PDF" %}} - 1.3MB) and presentation slides ({{% resource_link "899cb4d7-d34b-4404-a795-f3eefabb71f5" "PDF" %}} - 2.3MB)
 
-Student project example 2 report ({{% resource_link "88021d1c-c0ee-4534-9ac2-fe1d7f944be4" "PDF" %}} - 2.5MB) and presentation slides ({{% resource_link "33319a00-3a2e-4547-beb1-2ceb72455cbe" "PDF" %}} - 2.3MB)
+Student project example 2 report ({{% resource_link "f748c1c5-328f-432c-82ec-fd03ae4d745c" "PDF" %}} - 2.5MB) and presentation slides ({{% resource_link "bb2f8be0-bcb7-4f10-a266-8da29a097b8c" "PDF" %}}\- 2.3MB)
 
-Student project example 3 report ({{% resource_link "2ac015d7-5ff6-4ece-85ab-5ef83d0d6fa7" "PDF" %}} - 1MB)
+Student project example 3 report ({{% resource_link "60a46f1c-ead9-41c0-9811-8cf02c93983e" "PDF" %}} - 1MB)
 
-Student project example 4 report ({{% resource_link "4c82c4f3-049a-4bc6-ac69-a1786430009f" "PDF" %}} - 1.8MB) and presentation slides ({{% resource_link "9d85b26b-d736-418f-ae49-c0278ef1d74d" "PDF" %}} - 2.7MB)
+Student project example 4 report ({{% resource_link "43f02040-34bd-441c-8673-84615afa93d1" "PDF" %}} - 1.8MB) and presentation slides ({{% resource_link "23ee0096-7d5b-47ff-877d-fdfb75ae47c7" "PDF" %}} - 2.7MB)
