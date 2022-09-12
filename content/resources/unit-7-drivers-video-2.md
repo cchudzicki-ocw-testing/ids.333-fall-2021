@@ -34,4 +34,4 @@ video_metadata:
     \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: dp-ZTe9jn48
 ---
-The widespread existence of economies of scale in systems design drives designers to build big instead of incrementally.  Unfortunately, the economies of scale only really exist if the facilities operate fully at scale.
+The widespread existence of economies of scale in systems design drives designers to build big instead of incrementally. Unfortunately, the economies of scale only really exist if the facilities operate fully at scale.
