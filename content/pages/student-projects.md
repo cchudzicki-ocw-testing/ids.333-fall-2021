@@ -8,7 +8,7 @@ uid: 294deb3a-bba4-40cd-b009-cfc039e11fb6
 ---
 This sections provides recent aspirational examples of projects. Use them as inspirations and guides.
 
-Several of the student projects led to theses or conference presentations. They cover a representative range of topics: Aeronautics, Energy, Civil Engineering, and Manufacturing -- in that order.
+Several of the student projects led to theses or conference presentations. They cover a representative range of topics: aeronautics, energy, civil engineering, and manufacturing—in that order.
 
 Student Project example 1 report ({{% resource_link "6899ac75-65eb-4df5-b84f-26327ad8af68" "PDF" %}} - 1.3MB) and presentation slides ({{% resource_link "899cb4d7-d34b-4404-a795-f3eefabb71f5" "PDF" %}} - 2.3MB)
 
