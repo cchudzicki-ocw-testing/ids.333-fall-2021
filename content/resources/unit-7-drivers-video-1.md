@@ -36,4 +36,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 1ona5jnRZgw
 ---
-Discusses the 5 main drivers for and against the adoption of flexibility in design.  The most important is the existence of uncertainty. Not knowing what will happen is the reason not to commit to a premature design or plan.
+Discusses the 5 main drivers for and against the adoption of flexibility in design. The most important is the existence of uncertainty. Not knowing what will happen is the reason not to commit to a premature design or plan.
