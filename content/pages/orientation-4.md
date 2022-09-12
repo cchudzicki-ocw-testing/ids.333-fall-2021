@@ -18,4 +18,4 @@ Focus your attention on the 3 points the case emphasizes:
 2. We can easily explore the risks and opportunities associated with uncertainties; and
 3. Flexible plans and strategies can provide win-win strategies -- by reducing potential losses and increasing possible gains.
 
-The case was inspired by the design of a major parking garage in the UK.  Also, the question of flexibility in the design of garages is gaining traction due to uncertainties about how people might shift ride services or daily rentals, instead of owning cars. Should developers of apartment buildings design garages so that these spaces can easily be converted to other uses?
+The case was inspired by the design of a major parking garage in the UK. Also, the question of flexibility in the design of garages is gaining traction due to uncertainties about how people might shift to ride services or daily rentals, instead of owning cars. Should developers of apartment buildings design garages so that these spaces can easily be converted to other uses?
