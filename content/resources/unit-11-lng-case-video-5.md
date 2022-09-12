@@ -34,4 +34,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: FhK9O1yn9jU
 ---
-Case shows flexible design built around modules provides more value, driven by discount rate and learning that counteract economies of scale.  Results in multidimension comparative table.
+This case shows flexible design built around modules provides more value, driven by discount rate and learning that counteract economies of scale. Results are presented in a multidimensional comparative table.
