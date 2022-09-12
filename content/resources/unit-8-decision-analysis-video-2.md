@@ -35,4 +35,4 @@ video_metadata:
     \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: Kwg7x9LFsDc
 ---
-This video explains the structure of a decision tree.  It has a sequence of decision nodes and of chance nodes representing management choices and consequences. Data consist of probability of chances, and level of outcomes.
+This video explains the structure of a decision tree. It has a sequence of decision nodes and of chance nodes representing management choices and consequences. Data consist of probability of chances, and level of outcomes.
