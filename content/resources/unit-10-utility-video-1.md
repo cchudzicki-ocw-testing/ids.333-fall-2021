@@ -35,4 +35,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: cF6he3JbWbs
 ---
-Valuation of distributions of outcomes, involves risk-reward trade-offs between average and extreme performance. As these trade-offs are generally subjective, optimization is not meaningful.
+Valuation of distributions of outcomes involves risk-reward trade-offs between average and extreme performance. As these trade-offs are generally subjective, optimization is not meaningful.
