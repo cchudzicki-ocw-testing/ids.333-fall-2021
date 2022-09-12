@@ -59,9 +59,9 @@ Excel and [@Risk](https://github.com/Risk) boot camp [material](https://web.mit.
 
 David Geltner and Richard de Neufville, *Flexibility and Real Estate Valuation under Uncertainty: A Practical Guide for Developers.* Wiley-Blackwell, 2018. ISBN: 9781119106487.
 
-Chapter 6 “Engineering Options Analysis,” in [*Decision Making under Deep Uncertainty: From Theory to Practice* (free download)](https://library.oapen.org/handle/20.500.12657/22900)*.* Springer, 2019. ISBN: 9783030052522.
+Richard de Neufville, and Kim Smet. Chapter 6 “Engineering Options Analysis,” in [*Decision Making under Deep Uncertainty: From Theory to Practice* (free download)](https://library.oapen.org/handle/20.500.12657/22900)*.* Springer, 2019. ISBN: 9783030052522.
 
-Chapter 11 “Engineering Options Analysis - Applications,” in [*Decision Making under Deep Uncertainty: From Theory to Practice* (free download)](https://library.oapen.org/handle/20.500.12657/22900)*.* Springer, 2019. ISBN: 9783030052522.
+Richard de Neufville, et al. Chapter 11 “Engineering Options Analysis - Applications,” in [*Decision Making under Deep Uncertainty: From Theory to Practice* (free download)](https://library.oapen.org/handle/20.500.12657/22900)*.* Springer, 2019. ISBN: 9783030052522.
 
 ## Software Students Should Have
 
