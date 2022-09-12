@@ -83,7 +83,7 @@ Course grades were assigned based on a weighted average of the following element
 
 ### Typical Student Background
 
-Over 90 % of the students had engineering or science degrees, and most had 5 to 15 years of work experience. They were familiar with probability and statistics, but not with the concepts of strategies for how to deal proactively with risk.
+Over 90% of the students had engineering or science degrees, and most had 5 to 15 years of work experience. They were familiar with probability and statistics, but not with the concepts of strategies for how to deal proactively with risk.
 
 ## How Student Time Was Spent
 
