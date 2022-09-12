@@ -26,7 +26,7 @@ Pre-class Assignment: Self-Introduction (video)
 
 Major Assignment: HW 1 Document Experience out
 
-Intended Take-aways: Paradigm Change
+Intended Takeaways: Paradigm Change
 
 ## {{% resource_link "11bb4ef9-6cf9-4bac-bb0b-00208a4b5236" "Unit 2 Forecast Is \"Always\" Wrong" %}}:
 
@@ -40,7 +40,7 @@ Pre-class Assignment: Uncertainty Examples (video)
 
 Major Assignment: n/a
 
-Intended Take-aways: Forecast is "always" wrong’! We must deal with distribution recognizing overconfidence.
+Intended Takeaways: Forecast is "always" wrong’! We must deal with distribution recognizing overconfidence.
 
 ## {{% resource_link "99bc49a0-d592-45a8-8c16-e90bf055b47b" "Unit 3 Discounted Cash Flow (DCF)" %}}:
 
@@ -54,7 +54,7 @@ Pre-class Assignment: \[ASA\] Chapters 12 and 13 (readings)
 
 Major Assignment: n/a
 
-Intended Take-aways: Time Value of Money; Choice of discount rate is crucial.
+Intended Takeaways: Time Value of Money; Choice of discount rate is crucial.
 
 ## {{% resource_link "ae675aea-581d-461a-afc4-806acbba6a64" "Unit 4 Garage Case" %}}
 
@@ -68,7 +68,7 @@ Pre-class Assignment: videos; ASCE article (readings)
 
 Major Assignment: HW 2 Excel out
 
-Intended Take-aways: Flexibility as Win-Win
+Intended Takeaways: Flexibility as Win-Win
 
 ## {{% resource_link "50d052ed-fabf-4499-8fcf-03062500fc9d" "Unit 5 Simulation Mechanics" %}}
 
@@ -82,7 +82,7 @@ Pre-class Assignment: Simulation (videos)
 
 Major Assignment: HW 1 due
 
-Intended Take-aways: Rapid Excel Analysis of Complex Choices
+Intended Takeaways: Rapid Excel Analysis of Complex Choices
 
 ## Unit 6 Excel Template Recitation
 
@@ -96,7 +96,7 @@ Pre-class Assignment: Pre-Read Questions
 
 Major Assignment: Draft HW 2 due
 
-Intended Take-aways: Practical Use of Simulation
+Intended Takeaways: Practical Use of Simulation
 
 ## {{% resource_link "53e18e36-4c42-4735-a7ec-9194fe3dcb43" "Unit 7 Drivers of Flexibility" %}}
 
@@ -110,7 +110,7 @@ Pre-class Assignment: Manne Images (videos)
 
 Major Assignment: HW 3 Decision Analysis and EVPI out 
 
-Intended Take-aways: Discount rate and learning curve vs. Economies of Scale
+Intended Takeaways: Discount rate and learning curve vs. Economies of Scale
 
 ## {{% resource_link "2dee623e-4cb8-497c-b447-d8f320b0c253" "Unit 8 Decision Analysis" %}}
 
@@ -124,7 +124,7 @@ Pre-class Assignment: Structuring Decisions (videos)
 
 Major Assignment: HW 2 due
 
-Intended Take-aways: Structured Analysis Limited Choice and Timing
+Intended Takeaways: Structured Analysis Limited Choice and Timing
 
 ## Unit 9 Value of Information
 
@@ -138,7 +138,7 @@ Pre-class Assignment: Value of Information (videos)
 
 Major Assignment: n/a
 
-Intended Take-aways: Waiting leads to valuable Learning.
+Intended Takeaways: Waiting leads to valuable Learning.
 
 ## {{% resource_link "394085d7-deef-49ed-bbba-da79161001a8" "Unit 10 Utility Analysis and Multidimensional Evaluation" %}}
 
@@ -152,7 +152,7 @@ Pre-class Assignment: Utility (videos) 
 
 Major Assignment: n/a
 
-Intended Take-aways: Expectation v.s. Risk Aversion, is optimum a good concept?
+Intended Takeaways: Expectation v.s. Risk Aversion, is optimum a good concept?
 
 ### Session 10-2: Economic Evaluation 
 
@@ -164,7 +164,7 @@ Pre-class Assignment: Case Study (videos)
 
 Major Assignment: HW 3 due
 
-Intended Take-aways: Group Utility not Meaningful
+Intended Takeaways: Group Utility not Meaningful
 
 ## {{% resource_link "ef171f2e-e5b1-481a-883a-a2a32136a9e7" "Unit 11 Review and Quiz" %}}
 
@@ -178,4 +178,4 @@ Pre-class Assignment: Pre-Quiz Questions
 
 Major Assignment: n/a
 
-Intended Take-aways: Integrated View of Material
+Intended Takeaways: Integrated View of Material
