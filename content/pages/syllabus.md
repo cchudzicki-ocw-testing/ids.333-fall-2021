@@ -51,7 +51,7 @@ R. de Neufville and S. Scholtes. *Flexibility in Engineering Design*, MIT Press,
 
 ## Reading List
 
-R. de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management*](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 0070163723.
+R. de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management*](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 9780070163720.
 
 Excel and [@Risk](https://github.com/Risk) boot camp [material](https://web.mit.edu/ardent/www/ROcse_Excel_latest/Excel_Class.html)
 
