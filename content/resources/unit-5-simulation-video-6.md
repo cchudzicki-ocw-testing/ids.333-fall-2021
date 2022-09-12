@@ -35,4 +35,4 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: pLYdFdnWozo
 ---
-This video summarizes the simulation and valuation of flexibility on in the Antamina mine project.
+This video summarizes the simulation and valuation of flexibility in the Antamina mine project.
