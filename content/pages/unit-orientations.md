@@ -8,7 +8,7 @@ uid: 3e4086c8-ca83-4b5e-af50-a9432cc9c173
 ---
 Unit 1: Introduction (not available)
 
-{{% resource_link "11bb4ef9-6cf9-4bac-bb0b-00208a4b5236" "Unit 2: Forecast is \"always\" wrong" %}}
+{{% resource_link "11bb4ef9-6cf9-4bac-bb0b-00208a4b5236" "Unit 2: Forecast Is \"Always\" Wrong" %}}
 
 {{% resource_link "99bc49a0-d592-45a8-8c16-e90bf055b47b" "Unit 3: Discounted Cash Flow" %}}
 
