@@ -35,4 +35,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: SPDZbn6QC4c
 ---
-This video shows how Flexibility can reduce downside performance (e.g. by committing less at start) and take advantage of favorable situations (by being able to add capacity of functions or both).
+This video shows how flexibility can reduce downside performance (e.g. by committing less at start) and take advantage of favorable situations (by being able to add capacity of functions or both).
