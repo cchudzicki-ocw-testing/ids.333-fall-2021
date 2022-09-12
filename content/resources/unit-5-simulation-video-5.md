@@ -32,4 +32,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: JDmNvQj0I5A
 ---
-This video introduces the physical situation of the Antamina Copper mine project in the Andes.
+This video introduces the physical situation of the Antamina copper mine project in the Andes.
