@@ -34,4 +34,4 @@ video_metadata:
     \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: piFTZQywm2A
 ---
-New information has value because it allows us to learn about the probability of future outcomes.  A test in this context is any process to collect information: beta testing of product, test marketing, pilot projects, etc.
+New information has value because it allows us to learn about the probability of future outcomes. A test in this context is any process to collect information: beta testing of product, test marketing, pilot projects, etc.
