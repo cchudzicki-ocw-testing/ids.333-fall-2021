@@ -34,4 +34,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: zzsfHbb-Xq0
 ---
-This video demonstrates how engineering design can create opportunities for option within the design of a project.
+This video demonstrates how engineering design can create opportunities for options within the design of a project.
