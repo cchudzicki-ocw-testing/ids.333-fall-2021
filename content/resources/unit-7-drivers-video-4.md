@@ -35,4 +35,4 @@ video_metadata:
     \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: lPCoJJHhFP4
 ---
-The overall perspective is that designers and managers need to balance need to recognize and balance the competing effects of Uncertainty, economies of scale, the discount rate, learning, and competitive gaming.
+The overall perspective is that designers and managers need to balance need to recognize and balance the competing effects of uncertainty, economies of scale, the discount rate, learning, and competitive gaming.
