@@ -35,4 +35,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: x2Y9IdbVd9g
 ---
-This video outlines the process valuing information for a particular test. It demonstrates the complexity of process and the difficulty of obtaining the needed data. It motivates the practical approach in next video.
+This video outlines the process valuing information for a particular test. It demonstrates the complexity of process and the difficulty of obtaining the needed data. It motivates the practical approach in the next video.
