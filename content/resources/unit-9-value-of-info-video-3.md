@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 9: Value of Information 3, Video 3: Expected Value of Sample Information'
+title: 'Unit 9: Value of Information, Video 3: Expected Value of Sample Information'
 uid: 90bfb762-12bb-46ef-a562-9fb24b60f58a
 video_files:
   video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1-oOSVfO8iRYQ4m-fO3pJ0WViPcW1-l6a_transcript.webvtt
@@ -35,4 +35,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: x2Y9IdbVd9g
 ---
-This video outlines the process valuing information for a particular test.  It demonstrates the complexity of process and the difficulty of obtaining the needed data. It motivates the practical approach in next video.
+This video outlines the process valuing information for a particular test. It demonstrates the complexity of process and the difficulty of obtaining the needed data. It motivates the practical approach in next video.
