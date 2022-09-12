@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 10: Utility Analysis and Multidimensional Evaluation 1, Video 1: Is Optimization
+title: 'Unit 10: Utility Analysis and Multidimensional Evaluation, Video 1: Is Optimization
   Possible?'
 uid: 68ce4cdf-73c5-4de6-83e3-283978a19a30
 video_files:
