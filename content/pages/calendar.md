@@ -28,7 +28,7 @@ Major Assignment: HW 1 Document Experience out
 
 Intended Takeaways: Paradigm Change
 
-## {{% resource_link "11bb4ef9-6cf9-4bac-bb0b-00208a4b5236" "Unit 2 Forecast Is \"Always\" Wrong" %}}:
+## {{% resource_link "11bb4ef9-6cf9-4bac-bb0b-00208a4b5236" "Unit 2 The Forecast Is \"Always\" Wrong" %}}:
 
 ### Session 2: The Forecast Is "Always" Wrong
 
@@ -152,7 +152,7 @@ Pre-class Assignment: Utility (videos) 
 
 Major Assignment: n/a
 
-Intended Takeaways: Expectation v.s. Risk Aversion, is optimum a good concept?
+Intended Takeaways: Expectation vs. Risk Aversion, is optimum a good concept?
 
 ### Session 10-2: Economic Evaluation 
 
@@ -164,7 +164,7 @@ Pre-class Assignment: Case Study (videos)
 
 Major Assignment: HW 3 due
 
-Intended Takeaways: Group Utility not Meaningful
+Intended Takeaways: Group Utility Not Meaningful
 
 ## {{% resource_link "ef171f2e-e5b1-481a-883a-a2a32136a9e7" "Unit 11 Review and Quiz" %}}
 
