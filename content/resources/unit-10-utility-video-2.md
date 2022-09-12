@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 10: Utility Analysis and Multidimensional Evaluation 2, Video 2: Diminishing
+title: 'Unit 10: Utility Analysis and Multidimensional Evaluation, Video 2: Diminishing
   Marginal Utility'
 uid: cb97b2c4-1a45-41c2-9480-55845905c217
 video_files:
@@ -34,4 +34,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: xW4TJHhKZiY
 ---
-This video explains concept of diminishing marginal utility and emphasizes the important practical exceptions that decision-makers should appreciate.
+This video explains the concept of diminishing marginal utility and emphasizes the important practical exceptions that decision-makers should appreciate.
