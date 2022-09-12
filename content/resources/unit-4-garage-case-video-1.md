@@ -34,4 +34,4 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: 12MkdZCr4iQ
 ---
-This introduces the 'Garage case' as a simple example that illustrates (1) how to calculate system performance in an uncertain world, and (2) that Flexibility provides Win-Win designs.
+This introduces the "garage case" as a simple example that illustrates (1) how to calculate system performance in an uncertain world, and (2) that flexibility provides win-win designs.
