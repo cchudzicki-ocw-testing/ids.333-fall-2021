@@ -46,10 +46,10 @@ Session 9 Information Gathering as a Strategy (PDF)
 
 **Unit 10: Utility Analysis and Multidimensional Evaluation**
 
-Session 10 Part 1 Evaluating and Choosing Preferred Projects (PDF)
+{{% resource_link "a5f24696-58a4-42c6-894b-ca5e7184b3e6" "Session 10 Part 1 Evaluating and Choosing Preferred Projects (PDF)" %}}
 
-Session 10 Part 2 Economic Evaluation (PDF)
+{{% resource_link "8d8dd581-fae0-4247-b07c-5a94a5626cdf" "Session 10 Part 2 Economic Evaluation (PDF)" %}}
 
 **Unit 11: Review and Quiz**
 
-Session 11 Investment in Large Plants (PDF)
+{{% resource_link "83fbf48f-97cc-414c-b9d7-92b4d027eeea" "Session 11 Investment in Large Plants (PDF)" %}}
