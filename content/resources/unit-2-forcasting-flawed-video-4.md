@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Unit 2: The Forecast is ''Always'' wrong, Video 4: Common Forecasting Process
+title: 'Unit 2: The Forecast is "Always" wrong, Video 4: Common Forecasting Process
   Inherently Flawed'
 uid: d8c8d28b-b6a8-47f7-a3d6-658082db44f0
 video_files:
