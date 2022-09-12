@@ -34,4 +34,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 12K3PlcicZE
 ---
-Discount rate lowers present cost of later investments. This makes smaller, modular facilities cheaper than large initial investments.  Learning from improved design and repetition, similarly counteracts the value of economies of scale.
+Discount rate lowers present cost of later investments. This makes smaller, modular facilities cheaper than large initial investments. Learning from improved design and repetition similarly counteracts the value of economies of scale.
