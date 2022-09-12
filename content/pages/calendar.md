@@ -22,7 +22,7 @@ Topic: Introduction; Paradigm Change; Lordos example
 
 Readings: \[FD\] Chapters 1 and 2
 
-Pre-Class Assignment: Self-Introduction (video)
+Pre-class Assignment: Self-Introduction (video)
 
 Major Assignment: HW 1 Document Experience out
 
@@ -36,7 +36,7 @@ Topic: Forecast "always wrong;" Flaw of Averages
 
 Readings: \[FD\] Chapter 4
 
-Pre-Class Assignment: Uncertainty Examples (video)
+Pre-class Assignment: Uncertainty Examples (video)
 
 Major Assignment: n/a
 
@@ -50,7 +50,7 @@ Topic: Discounted Cash Flow
 
 Readings: \[FD\] Appendix B
 
-Pre-Class Assignment: \[ASA\] Chapters 12 and 13 (readings)
+Pre-class Assignment: \[ASA\] Chapters 12 and 13 (readings)
 
 Major Assignment: n/a
 
@@ -64,7 +64,7 @@ Topic: Garage Case
 
 Readings: ASCE article; \[XL\] Review
 
-Pre-Class Assignment: videos; ASCE article (readings)
+Pre-class Assignment: videos; ASCE article (readings)
 
 Major Assignment: HW 2 Excel out
 
@@ -78,7 +78,7 @@ Topic: Simulation Mechanics
 
 Readings: \[FD\] Appendix D
 
-Pre-Class Assignment: Simulation (videos)
+Pre-class Assignment: Simulation (videos)
 
 Major Assignment: HW 1 due
 
@@ -92,7 +92,7 @@ Topic: Excel Template Recitation
 
 Readings: Garage Case and Template
 
-Pre-Class Assignment: Pre-Read Questions
+Pre-class Assignment: Pre-Read Questions
 
 Major Assignment: Draft HW 2 due
 
@@ -106,7 +106,7 @@ Topic: Flexibility Drivers; Optimal Cycle time
 
 Readings: \[FD\] on Learning
 
-Pre-Class Assignment: Manne Images (videos)
+Pre-class Assignment: Manne Images (videos)
 
 Major Assignment: HW 3 Decision Analysis and EVPI out 
 
@@ -120,7 +120,7 @@ Topic: Decision Analysis
 
 Readings: \[ASA\] Chapter 16
 
-Pre-Class Assignment: Structuring Decisions (videos)
+Pre-class Assignment: Structuring Decisions (videos)
 
 Major Assignment: HW 2 due
 
@@ -134,7 +134,7 @@ Topic: Value of Information
 
 Readings: \[ASA\] Chapter 17
 
-Pre-Class Assignment: Value of Information (videos)
+Pre-class Assignment: Value of Information (videos)
 
 Major Assignment: n/a
 
@@ -148,7 +148,7 @@ Topic: Other Evaluation Criteria
 
 Readings: \[FD\] Chapter 3
 
-Pre-Class Assignment: Utility (videos) 
+Pre-class Assignment: Utility (videos) 
 
 Major Assignment: n/a
 
@@ -160,7 +160,7 @@ Topic: Utility Analysis
 
 Readings: \[ASA\] Chapter 18
 
-Pre-Class Assignment: Case Study (videos)
+Pre-class Assignment: Case Study (videos)
 
 Major Assignment: HW 3 due
 
@@ -174,7 +174,7 @@ Topic: Review for Quiz
 
 Readings: n/a
 
-Pre-Class Assignment: Pre-Quiz Questions
+Pre-class Assignment: Pre-Quiz Questions
 
 Major Assignment: n/a
 
