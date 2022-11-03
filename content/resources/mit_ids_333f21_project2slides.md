@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_project2slides2.pdf
+file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_project2slides.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
