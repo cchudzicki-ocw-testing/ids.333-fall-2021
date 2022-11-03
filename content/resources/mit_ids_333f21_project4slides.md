@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_project4report.pdf
+file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_project4slides.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT_IDS_333f21_Project4Report.pdf
-uid: 4c82c4f3-049a-4bc6-ac69-a1786430009f
+title: MIT_IDS_333f21_project4slides.pdf
+uid: 23ee0096-7d5b-47ff-877d-fdfb75ae47c7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
