@@ -8,7 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Unit 5: Mechanics of Simulation, Video 7: Value of Flex "in" Project (EN,
@@ -34,3 +35,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: ijxW_wO8EIY
 ---
+This video demonstrates how engineering design can create opportunities for options within the design of a project.
