@@ -16,9 +16,9 @@ title: 'Unit 5: Mechanics of Simulation, Video 7: Value of Flex "in" Project (EN
   ES, PT)'
 uid: b81dca4a-bf1d-44bd-b27f-1966870facbf
 video_files:
-  video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/628be69b-c649-471d-a63f-48de0fc96f78_captions.srt
+  video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_captions.srt
   video_thumbnail_file: https://img.youtube.com/vi/ijxW_wO8EIY/default.jpg
-  video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/628be69b-c649-471d-a63f-48de0fc96f78_transcript.pdf
+  video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: Antamina, copper mine, engineering flexibility, option in project, Excel,
