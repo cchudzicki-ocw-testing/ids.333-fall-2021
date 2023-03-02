@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Unit 5: Mechanics of Simulation, Video 5: Physical Situation'
 uid: f1a8b882-fe91-4d0c-b791-eba33d8d8f1c
 video_files:
-  video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1q1rqWLNObOKFOMULCEbyYL97dJRnuZJS_transcript.webvtt
+  video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_captions.srt
   video_thumbnail_file: https://img.youtube.com/vi/JDmNvQj0I5A/default.jpg
-  video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1q1rqWLNObOKFOMULCEbyYL97dJRnuZJS_transcript.pdf
+  video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: Antamina, copper mine, mine plan, uncertainties, Price, Ore quality
