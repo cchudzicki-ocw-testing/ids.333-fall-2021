@@ -14,9 +14,9 @@ resourcetype: Video
 title: Unit_5_Simulation_Video_7_en_us_mta_release.mp4
 uid: 0ecb5392-5f21-4ca3-a406-100e22c7c862
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_transcript2.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
